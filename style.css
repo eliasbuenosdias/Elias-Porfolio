@@ -426,6 +426,11 @@ ul {
         font-size: 1.8rem;
     }
 
+    .stats-grid {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
     .projects-gallery {
         grid-template-columns: 1fr;
     }
