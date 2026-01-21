@@ -431,6 +431,13 @@ ul {
         gap: 2rem;
     }
 
+    .profile-img {
+        width: 150px;
+        margin: 0 auto 1.5rem auto;
+        border-radius: 50%;
+        /* Optional: Circular on mobile looks better as avatar */
+    }
+
     .projects-gallery {
         grid-template-columns: 1fr;
     }
