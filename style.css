@@ -101,6 +101,24 @@ ul {
     line-height: 1.4;
 }
 
+.profile-img {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+    border-radius: 12px;
+    object-fit: cover;
+    margin-bottom: 1.5rem;
+    border: 1px solid var(--line);
+    filter: grayscale(100%);
+    transition: filter 0.3s;
+    align-self: flex-start;
+    /* Or center, but default left alignment usually looks best with left-aligned text */
+}
+
+.profile-img:hover {
+    filter: grayscale(0%);
+}
+
 .sidebar-nav ul li {
     margin-bottom: 0.8rem;
 }
