@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elias Prieto | Creative Developer</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700;900&family=Inter:wght@300;400;600&display=swap"
+        rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Icons -->
+    <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+    <!-- GSAP -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Layout Wrapper -->
+    <div class="layout-wrapper">
+
+        <!-- Sidebar (Fixed Left) -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">EP</div>
+                <div class="status-badge">
+                    <span class="status-dot"></span> Disponible para trabajar
+                </div>
+            </div>
+
+            <div class="sidebar-hero">
+                <h1>Elias<br>Prieto</h1>
+                <p class="subtitle">Desarrollador de software.</p>
+            </div>
+
+            <nav class="sidebar-nav">
+                <ul>
+                    <li><a href="#about" class="active">01. Sobre Mí</a></li>
+                    <li><a href="#experience">02. Experiencia</a></li>
+                    <li><a href="#projects">03. Proyectos</a></li>
+                    <li><a href="#contact">04. Contacto</a></li>
+                </ul>
+            </nav>
+
+            <div class="sidebar-footer">
+                <a href="./Prieto_Elias_CV.pdf" class="btn-link">Descargar CV ↗</a>
+                <div class="social-mini">
+                    <a href="#">LI</a>
+                    <a href="#">GH</a>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content (Scrollable Right) -->
+        <main class="main-content">
+
+            <!-- About Section -->
+            <section id="about" class="content-section">
+                <div class="section-header">
+                    <h2>Sobre Mí</h2>
+                    <div class="line"></div>
+                </div>
+                <p class="big-text">
+                    Desarrollador de software especializado en crear soluciones tecnológicas <span
+                        class="highlight">eficientes</span> y <span class="highlight">escalables</span>.
+                    Mi enfoque combina desarrollo multiplataforma con gestión de bases de datos y sistemas ERP,
+                    ofreciendo aplicaciones que resuelven problemas reales.
+                </p>
+                <div class="stats-grid">
+                    <div class="stat-item">
+                        <span class="number">3+</span>
+                        <span class="label">Años Exp.</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="number">20+</span>
+                        <span class="label">Proyectos</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Experience Section -->
+            <section id="experience" class="content-section">
+                <div class="section-header">
+                    <h2>Experiencia</h2>
+                    <div class="line"></div>
+                </div>
+                <div class="experience-list">
+                    <!-- NTT DATA -->
+                    <div class="exp-row">
+                        <div class="exp-date">Oct 2025 — Dic 2025</div>
+                        <div class="exp-info">
+                            <h3>Becario Full-Stack</h3>
+                            <p class="company">NTT DATA Europe & Latam</p>
+                            <p class="desc">Desarrollo full-stack (Java, Spring Boot, Angular) para aplicativo de
+                                gestión interna. Implementación de UI con i18n.</p>
+                        </div>
+                    </div>
+                    <!-- Diputchación -->
+                    <div class="exp-row">
+                        <div class="exp-date">Ene 2021 — Jun 2021</div>
+                        <div class="exp-info">
+                            <h3>Auxiliar Técnico</h3>
+                            <p class="company">Diputación de Salamanca</p>
+                            <p class="desc">Gestión documental, tratamiento estadístico y soporte a Jefatura de
+                                Negociado.</p>
+                        </div>
+                    </div>
+                    <!-- ZARA -->
+                    <div class="exp-row">
+                        <div class="exp-date">Mar 2021 — Abr 2021</div>
+                        <div class="exp-info">
+                            <h3>Operario de Almacén</h3>
+                            <p class="company">ZARA SA</p>
+                            <p class="desc">Logística y distribución.</p>
+                        </div>
+                    </div>
+                    <!-- PCBox -->
+                    <div class="exp-row">
+                        <div class="exp-date">Sept 2016 — Dic 2016</div>
+                        <div class="exp-info">
+                            <h3>Técnico Informático</h3>
+                            <p class="company">PCBox</p>
+                            <p class="desc">Mantenimiento hardware/software y montaje de equipos.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Projects Section -->
+            <section id="projects" class="content-section">
+                <div class="section-header">
+                    <h2>Proyectos Destacados</h2>
+                    <div class="line"></div>
+                </div>
+                <div class="projects-gallery">
+                    <article class="gallery-item">
+                        <div class="gallery-img" style="background: linear-gradient(45deg, #FF512F, #DD2476);"></div>
+                        <div class="gallery-info">
+                            <h3>GeoGas</h3>
+                            <div class="tags">Java / Retrofit / Mobile App</div>
+                            <p class="project-desc">
+                                Aplicación móvil para localizar gasolineras económicas. Uso de geolocalización y
+                                comparación de precios en tiempo real para optimizar el ahorro.
+                            </p>
+                        </div>
+                    </article>
+                    <article class="gallery-item">
+                        <div class="gallery-img" style="background: #333;"></div>
+                        <div class="gallery-info">
+                            <h3>Portfolio V3</h3>
+                            <div class="tags">HTML / GSAP / Brutalism</div>
+                            <p class="project-desc">
+                                Diseño personal iterativo explorando estéticas brutalistas y animaciones con GSAP.
+                                Enfoque en identidad única y performance.
+                            </p>
+                        </div>
+                    </article>
+                </div>
+            </section>
+
+            <!-- Skills Section (Marquee / Carousel) -->
+            <section id="skills" class="content-section" style="overflow: hidden; padding: 6rem 0;">
+                <div class="section-header" style="padding: 0 5rem;">
+                    <h2>Arsenal</h2>
+                    <div class="line"></div>
+                </div>
+
+                <!-- MSCHF Style Marquee -->
+                <div class="marquee-wrapper">
+                    <div class="marquee-tape tape-1">
+                        <div class="marquee-content">
+                            <span><i class="devicon-java-plain"></i> JAVA</span>
+                            <span><i class="devicon-python-plain"></i> PYTHON</span>
+                            <span><i class="devicon-hibernate-plain"></i> HIBERNATE</span>
+                            <span><i class="devicon-mongodb-plain"></i> MONGODB</span>
+                            <span><i class="devicon-mysql-plain"></i> MYSQL</span>
+                            <span><i class="devicon-odoo-plain"></i> ODOO</span>
+                            <!-- Duplicate -->
+                            <span><i class="devicon-java-plain"></i> JAVA</span>
+                            <span><i class="devicon-python-plain"></i> PYTHON</span>
+                            <span><i class="devicon-hibernate-plain"></i> HIBERNATE</span>
+                            <span><i class="devicon-mongodb-plain"></i> MONGODB</span>
+                            <span><i class="devicon-mysql-plain"></i> MYSQL</span>
+                            <span><i class="devicon-odoo-plain"></i> ODOO</span>
+                        </div>
+                    </div>
+
+                    <div class="marquee-tape tape-2">
+                        <div class="marquee-content">
+                            <span>FULL STACK</span>
+                            <span>ERP SYSTEMS</span>
+                            <span>DATABASE</span>
+                            <span>BACKEND</span>
+                            <span>JAVA</span>
+                            <span>SPRING BOOT</span>
+                            <!-- Duplicate -->
+                            <span>FULL STACK</span>
+                            <span>ERP SYSTEMS</span>
+                            <span>DATABASE</span>
+                            <span>BACKEND</span>
+                            <span>JAVA</span>
+                            <span>SPRING BOOT</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Contact Section -->
+            <section id="contact" class="content-section">
+                <div class="section-header">
+                    <h2>Conecta</h2>
+                    <div class="line"></div>
+                </div>
+                <div class="contact-box">
+                    <p>¿Tienes una idea?</p>
+                    <a href="mailto:hello@elias.com" class="big-email">hello@elias.com</a>
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+    <!-- Custom Cursor (V2) -->
+    <div class="cursor-dot"></div>
+    <div class="cursor-outline"></div>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+
+</html>

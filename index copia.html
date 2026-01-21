@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elias Prieto | Creative Developer</title>
+    <meta name="description"
+        content="Portfolio of Elias Prieto, a Creative Developer specialized in modern, interactive web experiences.">
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- GSAP CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+</head>
+
+<body>
+
+    <!-- Accessibilty Skip Link -->
+    <a href="#main-content" class="skip-link">Skip to content</a>
+
+    <!-- Custom Cursor -->
+    <div class="cursor-dot"></div>
+    <div class="cursor-outline"></div>
+
+    <!-- Navigation -->
+    <nav class="navbar" role="navigation" aria-label="Main Navigation">
+        <div class="logo">EP</div>
+        <ul class="nav-links">
+            <li><a href="#about" class="nav-link" data-link="about">About</a></li>
+            <li><a href="#experience" class="nav-link" data-link="experience">Experience</a></li>
+            <li><a href="#projects" class="nav-link" data-link="projects">Projects</a></li>
+            <li><a href="#skills" class="nav-link" data-link="skills">Skills</a></li>
+            <li><a href="#contact" class="nav-link" data-link="contact">Contact</a></li>
+        </ul>
+        <div class="theme-toggle" role="button" aria-label="Toggle Dark Mode">
+            <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <circle cx="12" cy="12" r="5"></circle>
+                <line x1="12" y1="1" x2="12" y2="3"></line>
+                <line x1="12" y1="21" x2="12" y2="23"></line>
+                <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                <line x1="1" y1="12" x2="3" y2="12"></line>
+                <line x1="21" y1="12" x2="23" y2="12"></line>
+                <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+            </svg>
+            <svg class="moon-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+                fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"
+                style="display:none;">
+                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+            </svg>
+        </div>
+    </nav>
+
+    <main id="main-content">
+        <!-- Hero Section -->
+        <section id="hero" class="hero-section">
+            <div class="hero-content">
+                <h1 class="hero-title">
+                    <span class="line">Hello, I'm</span>
+                    <span class="line highlight">Elias Prieto</span>
+                </h1>
+                <p class="hero-subtitle">Creative Web Developer</p>
+                <div class="cta-container">
+                    <a href="#projects" class="btn primary-btn">View My Work</a>
+                    <a href="#contact" class="btn secondary-btn">Get In Touch</a>
+                </div>
+            </div>
+            <div class="hero-visual">
+                <!-- Abstract geometry or 3D element placeholder -->
+                <div class="abstract-shape"></div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about-section">
+            <div class="section-container">
+                <h2 class="section-title">About Me</h2>
+                <div class="about-grid">
+                    <div class="about-text">
+                        <p class="bio-text">
+                            I am a <span class="hover-reveal"
+                                data-img="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=200&auto=format&fit=crop">Creative
+                                Developer</span>
+                            obsessed with <span class="hover-reveal"
+                                data-img="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=200&auto=format&fit=crop">digital
+                                aesthetics</span>
+                            and performance. My mission is to build digital experiences that are not just functional,
+                            but
+                            <span class="hover-reveal"
+                                data-img="https://images.unsplash.com/photo-1492551557933-34265f7af79e?q=80&w=200&auto=format&fit=crop">unforgettable</span>.
+                            <br><br>
+                            Coming from a background in [Your Background], I bring a unique perspective to engineering.
+                        </p>
+                        <div class="social-links">
+                            <a href="https://linkedin.com/in/elías" target="_blank" rel="noopener noreferrer"
+                                class="social-link">LinkedIn <span class="arrow">↗</span></a>
+                            <a href="https://github.com/eliasbuenosdias" target="_blank" rel="noopener noreferrer"
+                                class="social-link">GitHub <span class="arrow">↗</span></a>
+                        </div>
+                    </div>
+                    <!-- Secret Reveal Image Container -->
+                    <div class="reveal-image-container">
+                        <img src="" alt="" class="reveal-img">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Experience Section -->
+        <section id="experience" class="experience-section">
+            <div class="section-container">
+                <h2 class="section-title">Experience</h2>
+                <div class="timeline">
+                    <!-- Experience Item 1 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content">
+                            <span class="date">2023 - Present</span>
+                            <h3 class="role">Frontend Developer</h3>
+                            <p class="company">Tech Company Inc.</p>
+                            <p class="description">Led the development of scalable web applications using React and
+                                GSAP. Improved performance by 40% and implemented a new design system.</p>
+                        </div>
+                    </div>
+                    <!-- Experience Item 2 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content">
+                            <span class="date">2021 - 2023</span>
+                            <h3 class="role">Web Designer</h3>
+                            <p class="company">Creative Agency</p>
+                            <p class="description">Designed and developed award-winning websites for international
+                                clients. Specialized in interactive UI/UX and motion graphics.</p>
+                        </div>
+                    </div>
+                    <!-- Experience Item 3 -->
+                    <div class="timeline-item">
+                        <div class="timeline-dot"></div>
+                        <div class="timeline-content">
+                            <span class="date">2020 - 2021</span>
+                            <h3 class="role">Junior Developer</h3>
+                            <p class="company">StartUp Hub</p>
+                            <p class="description">Collaborated with senior developers to build MVP products. Gained
+                                expertise in HTML5, CSS3, and JavaScript modern practices.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects-section">
+            <div class="section-container">
+                <h2 class="section-title">Selected Works</h2>
+                <div class="projects-grid">
+                    <!-- Project Card 1 -->
+                    <article class="project-card">
+                        <div class="project-image">
+                            <div class="placeholder-img" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4);">
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3 class="project-title">E-Commerce Platform</h3>
+                            <p class="project-tech">React • Redux • Node.js</p>
+                            <div class="project-links">
+                                <a href="#" class="project-link">Live Demo <span class="arrow">↗</span></a>
+                                <a href="#" class="project-link">GitHub <span class="arrow">↗</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <!-- Project Card 2 -->
+                    <article class="project-card">
+                        <div class="project-image">
+                            <div class="placeholder-img" style="background: linear-gradient(45deg, #A8E6CF, #DCEDC1);">
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3 class="project-title">Portfolio V1</h3>
+                            <p class="project-tech">HTML • Sass • JS</p>
+                            <div class="project-links">
+                                <a href="#" class="project-link">Live Demo <span class="arrow">↗</span></a>
+                                <a href="#" class="project-link">GitHub <span class="arrow">↗</span></a>
+                            </div>
+                        </div>
+                    </article>
+                    <!-- Project Card 3 -->
+                    <article class="project-card">
+                        <div class="project-image">
+                            <div class="placeholder-img" style="background: linear-gradient(45deg, #6C5B7B, #C06C84);">
+                            </div>
+                        </div>
+                        <div class="project-info">
+                            <h3 class="project-title">Task Manager App</h3>
+                            <p class="project-tech">Vue.js • Firebase</p>
+                            <div class="project-links">
+                                <a href="#" class="project-link">Live Demo <span class="arrow">↗</span></a>
+                                <a href="#" class="project-link">GitHub <span class="arrow">↗</span></a>
+                            </div>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section (Marquee) -->
+        <section id="skills" class="skills-section">
+            <div class="section-container">
+                <h2 class="section-title">Technical Arsenal</h2>
+            </div>
+            <div class="marquee-container">
+                <div class="marquee-content">
+                    <span>HTML5</span>
+                    <span>CSS3</span>
+                    <span>JavaScript</span>
+                    <span>React</span>
+                    <span>Vue.js</span>
+                    <span>Node.js</span>
+                    <span>GSAP</span>
+                    <span>Three.js</span>
+                    <span>Git</span>
+                    <span>Figma</span>
+                    <span>Python</span>
+                    <span>SQL</span>
+                    <!-- Duplicate for seamless loop -->
+                    <span>HTML5</span>
+                    <span>CSS3</span>
+                    <span>JavaScript</span>
+                    <span>React</span>
+                    <span>Vue.js</span>
+                    <span>Node.js</span>
+                    <span>GSAP</span>
+                    <span>Three.js</span>
+                    <span>Git</span>
+                    <span>Figma</span>
+                    <span>Python</span>
+                    <span>SQL</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact-section">
+            <div class="section-container">
+                <h2 class="section-title">Let's Create Magic</h2>
+                <div class="contact-content">
+                    <p class="contact-text">
+                        Currently available for freelance projects and open to full-time opportunities.
+                        <br>
+                        If you have an idea that needs to be heard, I'm all ears.
+                    </p>
+                    <a href="mailto:hello@elias.com" class="btn primary-btn email-btn">
+                        <span>hello@elias.com</span>
+                    </a>
+                    <br>
+                    <a href="./Prieto_Elias_CV.pdf" download class="btn secondary-btn resume-btn">
+                        Download CV ↓
+                    </a>
+                </div>
+                <footer class="footer">
+                    <p>&copy; 2024 Elias Prieto. Crafted with <span style="color: var(--accent-color)">❤</span> & GSAP.
+                    </p>
+                </footer>
+            </div>
+        </section>
+    </main>
+
+    <!-- Scripts -->
+    <script src="script.js"></script>
+</body>
+
+</html>
