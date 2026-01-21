@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+
+<!--[if IE 9]>
+<html class="ie ie9" lang="es">
+<![endif]-->
+
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+    <link rel="pingback" href="https://leotec.com/xmlrpc.php">
+
+	<link rel="preload" as="font" href="https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.woff2" type="font/woff2" crossorigin>
+	<link rel="preload" as="font" href="https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.woff2" type="font/woff2" crossorigin>
+	
+    <title>Página no encontrada &#8211; Leotec</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//static.addtoany.com' />
+<link rel='dns-prefetch' href='//translate.google.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Leotec &raquo; Feed" href="https://leotec.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Leotec &raquo; Feed de los comentarios" href="https://leotec.com/comments/feed/" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='embedpress-css-css' href='https://leotec.com/wp-content/plugins/embedpress/assets/css/embedpress.css?ver=1768229753' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress-blocks-style-css' href='https://leotec.com/wp-content/plugins/embedpress/assets/css/blocks.build.css?ver=1768229753' type='text/css' media='all' />
+<link rel='stylesheet' id='embedpress-lazy-load-css-css' href='https://leotec.com/wp-content/plugins/embedpress/assets/css/lazy-load.css?ver=1768229753' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://leotec.com/wp-includes/css/dist/block-library/style.min.css?ver=70f58af44719804059b29ff254502ca8' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote :where(cite),.wp-block-pullquote :where(footer),.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote:where(.has-text-align-right){border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote:where(.has-text-align-center){border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote:where(.is-style-plain){border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+/*# sourceURL=/wp-includes/css/dist/block-library/theme.min.css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://leotec.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='google-language-translator-css' href='https://leotec.com/wp-content/plugins/google-language-translator/css/style.css?ver=6.0.20' type='text/css' media='' />
+<link rel='stylesheet' id='glt-toolbar-styles-css' href='https://leotec.com/wp-content/plugins/google-language-translator/css/toolbar.css?ver=6.0.20' type='text/css' media='' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://leotec.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=10.4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://leotec.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=10.4.3' type='text/css' media='only screen and (max-width: 767px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://leotec.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=10.4.3' type='text/css' media='all' />
+<style id='woocommerce-inline-inline-css' type='text/css'>
+.woocommerce form .form-row .required { visibility: visible; }
+/*# sourceURL=woocommerce-inline-inline-css */
+</style>
+<link rel='stylesheet' id='dgwt-wcas-style-css' href='https://leotec.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.32.2' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css' href='https://leotec.com/wp-content/themes/shopkeeper/css/vendor/animate.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-mixed-plugins-styles-css' href='https://leotec.com/wp-content/themes/shopkeeper/css/plugins/misc.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-elementor-styles-css' href='https://leotec.com/wp-content/themes/shopkeeper/css/plugins/elementor.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-wc-cart-css' href='https://leotec.com/wp-content/themes/shopkeeper/css/public/wc-cart.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-product-card-animation-css' href='https://leotec.com/wp-content/themes/shopkeeper/css/public/misc-product-card-animation.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dflip-style-css' href='https://leotec.com/wp-content/plugins/dflip/assets/css/dflip.min.css?ver=2.4.13' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://leotec.com/wp-content/tablepress-combined.min.css?ver=47' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-responsive-tables-css' href='https://leotec.com/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive.min.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='getbowtied-classic-notifications-styles-css' href='https://leotec.com/wp-content/themes/shopkeeper/inc/notifications/classic/assets/css/style.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://leotec.com/wp-includes/css/dashicons.min.css?ver=70f58af44719804059b29ff254502ca8' type='text/css' media='all' />
+<link rel='stylesheet' id='docu-frontend-css' href='https://leotec.com/wp-content/plugins/docu/assets/css/frontend.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='addtoany-css' href='https://leotec.com/wp-content/plugins/add-to-any/addtoany.min.css?ver=1.16' type='text/css' media='all' />
+<style id='addtoany-inline-css' type='text/css'>
+@media screen and (max-width:980px){
+.a2a_floating_style.a2a_vertical_style{display:none;}
+}
+/*# sourceURL=addtoany-inline-css */
+</style>
+<link rel='stylesheet' id='shopkeeper-icon-font-css' href='https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/shopkeeper-icon-font/style.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='shopkeeper-styles-css' href='https://leotec.com/wp-content/themes/shopkeeper/css/styles.css?ver=8.0' type='text/css' media='all' />
+<style id='shopkeeper-styles-inline-css' type='text/css'>
+@font-face{font-family:NeueEinstellung;font-display:swap;font-style:normal;font-weight:500;src:url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.eot");src:url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.eot?#iefix") format("embedded-opentype"), url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.woff2") format("woff2"), url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Regular.woff") format("woff")}@font-face{font-family:NeueEinstellung;font-display:swap;font-style:normal;font-weight:700;src:url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.eot");src:url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.eot?#iefix") format("embedded-opentype"), url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.woff2") format("woff2"), url("https://leotec.com/wp-content/themes/shopkeeper/inc/fonts/theme/NeueEinstellung-Bold.woff") format("woff")}.st-content, .categories_grid .category_name, .cd-top, .product_socials_wrapper .product_socials_wrapper_inner a, .product_navigation #nav-below .product-nav-next a, .product_navigation #nav-below .product-nav-previous a{background-color:#FFFFFF}.categories_grid .category_item:hover .category_name{color:#FFFFFF}h1, h2, h3, h4, h5, h6, .comments-title, .comment-author, #reply-title, .site-footer .widget-title, .accordion_title, .ui-tabs-anchor, .products .button, .site-title a, .post_meta_archive a, .post_meta a, .post_tags a, #nav-below a, .list_categories a, .list_shop_categories a, .main-navigation > ul > li > a, .main-navigation .mega-menu > ul > li > a, .more-link, .top-page-excerpt, .select2-search input, .product_after_shop_loop_buttons a, .woocommerce .products-grid a.button, .page-numbers, input.qty, .button, button, .button_text, input[type="button"], input[type="reset"], input[type="submit"], button[type="submit"], .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .yith-wcwl-wishlistexistsbrowse.show a, .yith-add-to-wishlist-button-block a, .share-product-text, .tabs > li > a, label, .shopkeeper_new_product, .comment-respond label, .product_meta_title, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, #map_button, .woocommerce .cart-collaterals .cart_totals tr.order-total td strong, .woocommerce-page .cart-collaterals .cart_totals tr.order-total td strong, .cart-wishlist-empty, .wishlist-empty, .cart-empty, .return-to-shop .wc-backward, .order-number a, .post-edit-link, .from_the_blog_title, .icon_box_read_more, .vc_pie_chart_value, .shortcode_banner_simple_bullet, .shortcode_banner_simple_height_bullet, .product-category .woocommerce-loop-category__title, .categories_grid .category_name, .woocommerce span.onsale, .woocommerce-page span.onsale, .out_of_stock_badge_single, .out_of_stock_badge_loop, .page-numbers, .post-nav-links span, .post-nav-links a, .add_to_wishlist, .yith-wcwl-wishlistaddedbrowse, .yith-wcwl-wishlistexistsbrowse, .filters-group, .product-name, .product-quantity, .product-total, .download-product a, .woocommerce-order-details table tfoot th, .woocommerce-order-details table tfoot td, .woocommerce .woocommerce-order-downloads table tbody td:before, .woocommerce table.woocommerce-MyAccount-orders td:before, .widget h3, .widget .total .amount, .wishlist-in-stock, .wishlist-out-of-stock, .comment-reply-link, .comment-edit-link, .widget_calendar table thead tr th, .page-type, .mobile-navigation a, table thead tr th, .portfolio_single_list_cat, .portfolio-categories, .shipping-calculator-button, .vc_btn, .vc_btn2, .vc_btn3, .account-tab-item .account-tab-link, .account-tab-list .sep, ul.order_details li, ul.order_details.bacs_details li, .widget_calendar caption, .widget_recent_comments li a, .edit-account legend, .widget_shopping_cart li.empty, .cart-collaterals .cart_totals .shop_table .order-total .woocommerce-Price-amount, .woocommerce table.cart .cart_item td a, .woocommerce #content table.cart .cart_item td a, .woocommerce-page table.cart .cart_item td a, .woocommerce-page #content table.cart .cart_item td a, .woocommerce table.cart .cart_item td span, .woocommerce #content table.cart .cart_item td span, .woocommerce-page table.cart .cart_item td span, .woocommerce-page #content table.cart .cart_item td span, .woocommerce-MyAccount-navigation ul li, .woocommerce-info.wc_points_rewards_earn_points, .woocommerce-info, .woocommerce-error, .woocommerce-message, .woocommerce .cart-collaterals .cart_totals .cart-subtotal th, .woocommerce-page .cart-collaterals .cart_totals .cart-subtotal th, .woocommerce .cart-collaterals .cart_totals tr.shipping th, .woocommerce-page .cart-collaterals .cart_totals tr.shipping th, .woocommerce .cart-collaterals .cart_totals tr.order-total th, .woocommerce-page .cart-collaterals .cart_totals tr.order-total th, .woocommerce .cart-collaterals .cart_totals h2, .woocommerce .cart-collaterals .cross-sells h2, .woocommerce-cart #content table.cart td.actions .coupon #coupon_code, form.checkout_coupon #coupon_code, .woocommerce-checkout .woocommerce-info, .shopkeeper_checkout_coupon, .shopkeeper_checkout_login, .minicart-message, .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot td, .woocommerce .woocommerce-checkout-review-order table.shop_table tfoot th, .woocommerce-page .woocommerce-checkout-review-order table.shop_table tfoot td, .woocommerce-page .woocommerce-checkout-review-order table.shop_table tfoot th, .no-products-info p, .getbowtied_blog_ajax_load_button a, .getbowtied_ajax_load_button a, .index-layout-2 ul.blog-posts .blog-post article .post-categories li a, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post-categories li a, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post_content_wrapper .post_content .read_more, .woocommerce .woocommerce-breadcrumb, .woocommerce-page .woocommerce-breadcrumb, .woocommerce .woocommerce-breadcrumb a, .woocommerce-page .woocommerce-breadcrumb a, .product_meta, .product_meta span, .product_meta a, .product_layout_classic div.product span.price, .product_layout_classic div.product p.price, .product_layout_cascade div.product span.price, .product_layout_cascade div.product p.price, .product_layout_2 div.product span.price, .product_layout_2 div.product p.price, .product_layout_scattered div.product span.price, .product_layout_scattered div.product p.price, .product_layout_4 div.product span.price, .product_layout_4 div.product p.price, .related-products-title, .product_socials_wrapper .share-product-text, #button_offcanvas_sidebar_left .filters-text, .woocommerce-ordering select.orderby, .fr-position-text, .woocommerce-checkout-review-order .woocommerce-checkout-review-order-table tr td, .catalog-ordering .select2-container.orderby a, .catalog-ordering .select2-container span, .widget_product_categories ul li .count, .widget_layered_nav ul li .count, .woocommerce-mini-cart__empty-message, .woocommerce-ordering select.orderby, .woocommerce .cart-collaterals .cart_totals table.shop_table_responsive tr td::before, .woocommerce-page .cart-collaterals .cart_totals table.shop_table_responsive tr td::before, .login-register-container .lost-pass-link, .woocommerce-cart .cart-collaterals .cart_totals table td .amount, .wpb_wrapper .add_to_cart_inline .woocommerce-Price-amount.amount, .woocommerce-page .cart-collaterals .cart_totals tr.shipping td, .woocommerce-page .cart-collaterals .cart_totals tr.shipping td, .woocommerce .cart-collaterals .cart_totals tr.cart-discount th, .woocommerce-page .cart-collaterals .cart_totals tr.cart-discount th, .woocommerce-thankyou-order-received, .woocommerce-order-received .woocommerce table.shop_table tfoot th, .woocommerce-order-received .woocommerce-page table.shop_table tfoot th, .woocommerce-view-order .woocommerce table.shop_table tfoot th, .woocommerce-view-order .woocommerce-page table.shop_table tfoot th, .woocommerce-order-received .woocommerce table.shop_table tfoot td, .woocommerce-order-received .woocommerce-page table.shop_table tfoot td, .woocommerce-view-order .woocommerce table.shop_table tfoot td, .woocommerce-view-order .woocommerce-page table.shop_table tfoot td, .language-and-currency #top_bar_language_list > ul > li, .language-and-currency .wcml_currency_switcher > ul > li.wcml-cs-active-currency, .language-and-currency-offcanvas #top_bar_language_list > ul > li, .language-and-currency-offcanvas .wcml_currency_switcher > ul > li.wcml-cs-active-currency, .woocommerce-order-pay .woocommerce .woocommerce-form-login p.lost_password a, .woocommerce-MyAccount-content .woocommerce-orders-table__cell-order-number a, .woocommerce form.login .lost_password, .comment-reply-title, .product_content_wrapper .product_infos .out_of_stock_wrapper .out_of_stock_badge_single, .product_content_wrapper .product_infos .woocommerce-variation-availability p.stock.out-of-stock, .site-search .widget_product_search .search-field, .site-search .widget_search .search-field, .site-search .search-form .search-field, .site-search .search-text, .site-search .search-no-suggestions, .latest_posts_grid_wrapper .latest_posts_grid_title, p.has-drop-cap:not(:focus):first-letter, .paypal-button-tagline .paypal-button-text, .tinvwl_add_to_wishlist_button, .product-addon-totals, body.gbt_custom_notif .page-notifications .gbt-custom-notification-message, body.gbt_custom_notif .page-notifications .gbt-custom-notification-message *, body.gbt_custom_notif .page-notifications .product_notification_text, body.gbt_custom_notif .page-notifications .product_notification_text *, body.gbt_classic_notif .woocommerce-error a, body.gbt_classic_notif .woocommerce-info a, body.gbt_classic_notif .woocommerce-message a, body.gbt_classic_notif .woocommerce-notice a, .shop_table.cart .product-price .amount, p.has-drop-cap:first-letter, .woocommerce-result-count, .widget_price_filter .price_slider_amount, .woocommerce ul.products li.product .price, .product_content_wrapper .product_infos table.variations td.label, .woocommerce div.product form.cart .reset_variations, #powerTip, div.wcva_shop_textblock, .wcva_filter_textblock, .wcva_single_textblock, .added_to_cart, .upper a, .wp-block-woocommerce-active-filters ul.wc-block-active-filters-list li *, .wp-block-woocommerce-active-filters .wc-block-active-filters__clear-all, .product_navigation #nav-below span, .order-info mark, .top-headers-wrapper .site-header .site-header-wrapper .site-title, .mobile-navigation > ul > li > ul > li.menu-item-has-children > a, .mobile-navigation > ul > li > ul li.upper > a{font-family:"NeueEinstellung", -apple-system, BlinkMacSystemFont, Arial, Helvetica, 'Helvetica Neue', Verdana, sans-serif}body, p, .site-navigation-top-bar, .site-title, .widget_product_search #searchsubmit, .widget_search #searchsubmit, .widget_product_search .search-submit, .widget_search .search-submit, #site-menu, .copyright_text, blockquote cite, table thead th, .recently_viewed_in_single h2, .woocommerce .cart-collaterals .cart_totals table th, .woocommerce-page .cart-collaterals .cart_totals table th, .woocommerce .cart-collaterals .shipping_calculator h2, .woocommerce-page .cart-collaterals .shipping_calculator h2, .woocommerce table.woocommerce-checkout-review-order-table tfoot th, .woocommerce-page table.woocommerce-checkout-review-order-table tfoot th, .qty, .shortcode_banner_simple_inside h4, .shortcode_banner_simple_height h4, .fr-caption, .post_meta_archive, .post_meta, .yith-wcwl-wishlistaddedbrowse .feedback, .yith-wcwl-wishlistexistsbrowse .feedback, .product-name span, .widget_calendar table tbody a, .fr-touch-caption-wrapper, .woocommerce .checkout_login p.form-row label[for="rememberme"], .wpb_widgetised_column aside ul li span.count, .woocommerce td.product-name dl.variation dt, .woocommerce td.product-name dl.variation dd, .woocommerce td.product-name dl.variation dt p, .woocommerce td.product-name dl.variation dd p, .woocommerce-page td.product-name dl.variation dt, .woocommerce-page td.product-name dl.variation dd p, .woocommerce-page td.product-name dl.variation dt p, .woocommerce .select2-container, .check_label, .woocommerce-page #payment .terms label, ul.order_details li strong, .widget_recent_comments li, .widget_shopping_cart p.total, .widget_shopping_cart p.total .amount, .mobile-navigation li ul li a, .woocommerce #payment div.payment_box p, .woocommerce-page #payment div.payment_box p, .woocommerce table.cart .cart_item td:before, .woocommerce #content table.cart .cart_item td:before, .woocommerce-page table.cart .cart_item td:before, .woocommerce-page #content table.cart .cart_item td:before, .language-and-currency #top_bar_language_list > ul > li > ul > li > a, .language-and-currency .wcml_currency_switcher > ul > li.wcml-cs-active-currency > ul.wcml-cs-submenu li a, .language-and-currency #top_bar_language_list > ul > li.menu-item-first > ul.sub-menu li.sub-menu-item span.icl_lang_sel_current, .language-and-currency-offcanvas #top_bar_language_list > ul > li > ul > li > a, .language-and-currency-offcanvas .wcml_currency_switcher > ul > li.wcml-cs-active-currency > ul.wcml-cs-submenu li a, .language-and-currency-offcanvas #top_bar_language_list > ul > li.menu-item-first > ul.sub-menu li.sub-menu-item span.icl_lang_sel_current, .woocommerce-order-pay .woocommerce .woocommerce-info, .select2-results__option, body.gbt_classic_notif .woocommerce-error, body.gbt_classic_notif .woocommerce-info, body.gbt_classic_notif .woocommerce-message, body.gbt_classic_notif .woocommerce-notice, .gbt_18_sk_editor_banner_subtitle, .gbt_18_sk_editor_slide_description_input, .woocommerce td.product-name .wc-item-meta li, .woocommerce ul.products li.product .woocommerce-loop-product__title, .product_content_wrapper .product_infos span.belowtext, .wc-block-grid__product-title, .wp-block-woocommerce-attribute-filter ul.wc-block-checkbox-list li label, .wp-block-woocommerce-active-filters ul.wc-block-active-filters-list li .wc-block-active-filters-list-item__name{font-family:"roboto", -apple-system, BlinkMacSystemFont, Arial, Helvetica, 'Helvetica Neue', Verdana, sans-serif}h1, .woocommerce h1, .woocommerce-page h1{font-size:30.797px}h2, .woocommerce h2, .woocommerce-page h2{font-size:23.101px}h3, .woocommerce h3, .woocommerce-page h3{font-size:17.329px}h4, .woocommerce h4, .woocommerce-page h4{font-size:13px}h5, .woocommerce h5, .woocommerce-page h5{font-size:9.75px}.woocommerce-account .account-tab-list .account-tab-item .account-tab-link{font-size:37.904px}.page-title.blog-listing, .woocommerce .page-title, .page-title, .single .entry-title, .woocommerce-cart .page-title, .woocommerce-checkout .page-title, .woocommerce-account .page-title{font-size:41.041px}p.has-drop-cap:first-letter{font-size:41.041px !important}.entry-title-archive, .wp-block-latest-posts li > a{font-size:21.328px}.woocommerce #content div.product .product_title, .woocommerce div.product .product_title, .woocommerce-page #content div.product .product_title, .woocommerce-page div.product .product_title{font-size:23.101px}h2.woocommerce-order-details__title, h2.woocommerce-column__title, h2.woocommerce-order-downloads__title{font-size:17.329px}.woocommerce-checkout .content-area h3, .woocommerce-edit-address h3, .woocommerce-edit-account legend{font-size:13px}@media only screen and (max-width:768px){.woocommerce-account .account-tab-list .account-tab-item .account-tab-link{font-size:30.797px}}@media only screen and (min-width:768px){h1, .woocommerce h1, .woocommerce-page h1{font-size:37.904px}h2, .woocommerce h2, .woocommerce-page h2{font-size:28.432px}h3, .woocommerce h3, .woocommerce-page h3{font-size:21.328px}h4, .woocommerce h4, .woocommerce-page h4{font-size:16px}h5, .woocommerce h5, .woocommerce-page h5{font-size:12px}.page-title.blog-listing, .woocommerce .page-title, .page-title, .single .entry-title, .woocommerce-cart .page-title, .woocommerce-checkout .page-title, .woocommerce-account .page-title{font-size:50.512px}p.has-drop-cap:first-letter{font-size:50.512px !important}.entry-title-archive, .wp-block-latest-posts li > a{font-size:21.328px}.woocommerce-checkout .content-area h3, h2.woocommerce-order-details__title, h2.woocommerce-column__title, h2.woocommerce-order-downloads__title, .woocommerce-edit-address h3, .woocommerce-edit-account legend, .woocommerce-order-received h2, .fr-position-text{font-size:16px}}@media only screen and (min-width:1024px){.woocommerce #content div.product .product_title, .woocommerce div.product .product_title, .woocommerce-page #content div.product .product_title, .woocommerce-page div.product .product_title{font-size:28.432px}}@media only screen and (max-width:1023px){.woocommerce #content div.product .product_title, .woocommerce div.product .product_title, .woocommerce-page #content div.product .product_title, .woocommerce-page div.product .product_title{font-size:23.101px}}@media only screen and (min-width:1024px){p, .woocommerce table.shop_attributes th, .woocommerce-page table.shop_attributes th, .woocommerce table.shop_attributes td, .woocommerce-page table.shop_attributes td, .woocommerce-review-link, .blog-isotope .entry-content-archive, .blog-isotope .entry-content-archive *, body.gbt_classic_notif .woocommerce-message, body.gbt_classic_notif .woocommerce-error, body.gbt_classic_notif .woocommerce-info, body.gbt_classic_notif .woocommerce-notice, .woocommerce-store-notice, p.demo_store, .woocommerce-account .woocommerce-MyAccount-content table.woocommerce-MyAccount-orders td, ul li ul, ul li ol, ul, ol, dl{font-size:12px}}.woocommerce ul.order_details li strong, .fr-caption, .woocommerce-order-pay .woocommerce .woocommerce-info{font-size:12px !important}@media only screen and (min-width:768px){.woocommerce ul.products li.product .woocommerce-loop-product__title, .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-link .wc-block-grid__product-title{font-size:14px !important}}body, table tr th, table tr td, table thead tr th, blockquote p, pre, del, label, .select2-dropdown-open.select2-drop-above .select2-choice, .select2-dropdown-open.select2-drop-above .select2-choices, .select2-container, .big-select, .select.big-select, .post_meta_archive a, .post_meta a, .nav-next a, .nav-previous a, .blog-single h6, .page-description, .woocommerce #content nav.woocommerce-pagination ul li a:focus, .woocommerce #content nav.woocommerce-pagination ul li a:hover, .woocommerce #content nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce-page #content nav.woocommerce-pagination ul li a:focus, .woocommerce-page #content nav.woocommerce-pagination ul li a:hover, .woocommerce-page #content nav.woocommerce-pagination ul li span.current, .woocommerce-page nav.woocommerce-pagination ul li a:focus, .woocommerce-page nav.woocommerce-pagination ul li a:hover, .woocommerce-page nav.woocommerce-pagination ul li span.current, .posts-navigation .page-numbers a:hover, .woocommerce table.shop_table th, .woocommerce-page table.shop_table th, .woocommerce-checkout .woocommerce-info, .wpb_widgetised_column .widget.widget_product_categories a:hover, .wpb_widgetised_column .widget.widget_layered_nav a:hover, .wpb_widgetised_column .widget.widget_layered_nav li, .portfolio_single_list_cat a, .gallery-caption-trigger, .widget_shopping_cart p.total, .widget_shopping_cart p.total .amount, .wpb_widgetised_column .widget_shopping_cart li.empty, .index-layout-2 ul.blog-posts .blog-post article .post-date, form.checkout_coupon #coupon_code, .woocommerce .product_infos .quantity input.qty, .woocommerce #content .product_infos .quantity input.qty, .woocommerce-page .product_infos .quantity input.qty, .woocommerce-page #content .product_infos .quantity input.qty, #button_offcanvas_sidebar_left, .fr-position-text, .quantity.custom input.custom-qty, .add_to_wishlist, .product_infos .add_to_wishlist:before, .product_infos .yith-wcwl-wishlistaddedbrowse:before, .product_infos .yith-wcwl-wishlistexistsbrowse:before, #add_payment_method #payment .payment_method_paypal .about_paypal, .woocommerce-cart #payment .payment_method_paypal .about_paypal, .woocommerce-checkout #payment .payment_method_paypal .about_paypal, #stripe-payment-data > p > a, .product-name .product-quantity, .woocommerce #payment div.payment_box, .woocommerce-order-pay #order_review .shop_table tr.order_item td.product-quantity strong, .tinvwl_add_to_wishlist_button:before, body.gbt_classic_notif .woocommerce-info, .select2-search--dropdown:after, body.gbt_classic_notif .woocommerce-notice, .woocommerce-cart #content table.cart td.actions .coupon #coupon_code, .woocommerce ul.products li.product .price del, .off-canvas .woocommerce .price del, .select2-container--default .select2-selection--multiple .select2-selection__choice__remove, .wc-block-grid__product-price.price del{color:#222222}a.woocommerce-remove-coupon:after, .fr-caption, .woocommerce-order-pay .woocommerce .woocommerce-info, body.gbt_classic_notif .woocommerce-info::before, table.shop_attributes td{color:#222222!important}.nav-previous-title, .nav-next-title{color:rgba(34,34,34,0.4)}.required{color:rgba(34,34,34,0.4) !important}.yith-wcwl-add-button, .share-product-text, .product_meta, .product_meta a, .product_meta_separator, .tob_bar_shop, .post_meta_archive, .post_meta, .wpb_widgetised_column .widget li, .wpb_widgetised_column .widget_calendar table thead tr th, .wpb_widgetised_column .widget_calendar table thead tr td, .wpb_widgetised_column .widget .post-date, .wpb_widgetised_column .recentcomments, .wpb_widgetised_column .amount, .wpb_widgetised_column .quantity, .wpb_widgetised_column .widget_price_filter .price_slider_amount, .woocommerce .woocommerce-breadcrumb, .woocommerce-page .woocommerce-breadcrumb, .woocommerce .woocommerce-breadcrumb a, .woocommerce-page .woocommerce-breadcrumb a, .archive .products-grid li .product_thumbnail_wrapper > .price .woocommerce-Price-amount, .site-search .search-text, .site-search .site-search-close .close-button:hover, .site-search .woocommerce-product-search:after, .site-search .widget_search .search-form:after, .product_navigation #nav-below .product-nav-previous *, .product_navigation #nav-below .product-nav-next *{color:rgba(34,34,34,0.55)}.woocommerce-account .woocommerce-MyAccount-content table.woocommerce-MyAccount-orders td.woocommerce-orders-table__cell-order-actions .button:after, .woocommerce-account .woocommerce-MyAccount-content table.account-payment-methods-table td.payment-method-actions .button:after{color:rgba(34,34,34,0.15)}.products a.button.add_to_cart_button.loading, .woocommerce ul.products li.product .price, .off-canvas .woocommerce .price, .wc-block-grid__product-price span, .wpb_wrapper .add_to_cart_inline del .woocommerce-Price-amount.amount, .wp-block-getbowtied-scattered-product-list .gbt_18_product_price{color:rgba(34,34,34,0.8) !important}.yith-wcwl-add-to-wishlist:after, .yith-add-to-wishlist-button-block:after, .bg-image-wrapper.no-image, .site-search .spin:before, .site-search .spin:after{background-color:rgba(34,34,34,0.55)}.product_layout_cascade .product_content_wrapper .product-images-wrapper .product-images-style-2 .product_images .product-image .caption:before, .product_layout_2 .product_content_wrapper .product-images-wrapper .product-images-style-2 .product_images .product-image .caption:before, .fr-caption:before, .product_content_wrapper .product-images-wrapper .product_images .product-images-controller .dot.current{background-color:#222222}.product_content_wrapper .product-images-wrapper .product_images .product-images-controller .dot{background-color:rgba(34,34,34,0.55)}#add_payment_method #payment div.payment_box .wc-credit-card-form, .woocommerce-account.woocommerce-add-payment-method #add_payment_method #payment div.payment_box .wc-payment-form, .woocommerce-cart #payment div.payment_box .wc-credit-card-form, .woocommerce-checkout #payment div.payment_box .wc-credit-card-form, .product_content_wrapper .product_infos .woocommerce-variation-availability p.stock.out-of-stock, .product_layout_classic .product_infos .out_of_stock_wrapper .out_of_stock_badge_single, .product_layout_cascade .product_content_wrapper .product_infos .out_of_stock_wrapper .out_of_stock_badge_single, .product_layout_2 .product_content_wrapper .product_infos .out_of_stock_wrapper .out_of_stock_badge_single, .product_layout_scattered .product_content_wrapper .product_infos .out_of_stock_wrapper .out_of_stock_badge_single, .product_layout_4 .product_content_wrapper .product_infos .out_of_stock_wrapper .out_of_stock_badge_single{border-color:rgba(34,34,34,0.55)}.add_to_cart_inline .amount, .wpb_widgetised_column .widget, .widget_layered_nav, .wpb_widgetised_column aside ul li span.count, .shop_table.cart .product-price .amount, .quantity.custom .minus-btn, .quantity.custom .plus-btn, .woocommerce td.product-name dl.variation dt, .woocommerce td.product-name dl.variation dd, .woocommerce td.product-name dl.variation dt p, .woocommerce td.product-name dl.variation dd p, .woocommerce-page td.product-name dl.variation dt, .woocommerce-page td.product-name dl.variation dd p, .woocommerce-page td.product-name dl.variation dt p, .woocommerce-page td.product-name dl.variation dd p, .woocommerce a.remove, .woocommerce a.remove:after, .woocommerce td.product-name .wc-item-meta li, .wpb_widgetised_column .tagcloud a, .post_tags a, .select2-container--default .select2-selection--multiple .select2-selection__choice, .wpb_widgetised_column .widget.widget_layered_nav li.select2-selection__choice, .products .add_to_wishlist:before{color:rgba(34,34,34,0.8)}#coupon_code::-webkit-input-placeholder{color:rgba(34,34,34,0.8)}#coupon_code::-moz-placeholder{color:rgba(34,34,34,0.8)}#coupon_code:-ms-input-placeholder{color:rgba(34,34,34,0.8)}.woocommerce #content table.wishlist_table.cart a.remove, .woocommerce.widget_shopping_cart .cart_list li a.remove{color:rgba(34,34,34,0.8) !important}input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], textarea, select, .woocommerce-checkout .select2-container--default .select2-selection--single, .country_select.select2-container, #billing_country_field .select2-container, #billing_state_field .select2-container, #calc_shipping_country_field .select2-container, #calc_shipping_state_field .select2-container, .woocommerce-widget-layered-nav-dropdown .select2-container .select2-selection--single, .woocommerce-widget-layered-nav-dropdown .select2-container .select2-selection--multiple, #shipping_country_field .select2-container, #shipping_state_field .select2-container, .woocommerce-address-fields .select2-container--default .select2-selection--single, .woocommerce-shipping-calculator .select2-container--default .select2-selection--single, .select2-container--default .select2-search--dropdown .select2-search__field, .woocommerce form .form-row.woocommerce-validated .select2-container .select2-selection, .woocommerce form .form-row.woocommerce-validated .select2-container, .woocommerce form .form-row.woocommerce-validated input.input-text, .woocommerce form .form-row.woocommerce-validated select, .woocommerce form .form-row.woocommerce-invalid .select2-container, .woocommerce form .form-row.woocommerce-invalid input.input-text, .woocommerce form .form-row.woocommerce-invalid select, .country_select.select2-container, .state_select.select2-container, .widget form.search-form .search-field{border-color:rgba(34,34,34,0.1) !important}input[type="radio"]:after, .input-radio:after, input[type="checkbox"]:after, .input-checkbox:after, .widget_product_categories ul li a:before, .widget_layered_nav ul li a:before, .post_tags a, .wpb_widgetised_column .tagcloud a, .select2-container--default .select2-selection--multiple .select2-selection__choice{border-color:rgba(34,34,34,0.8)}input[type="text"]:focus, input[type="password"]:focus, input[type="date"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="time"]:focus, input[type="url"]:focus, textarea:focus, select:focus, .select2-dropdown, .woocommerce .product_infos .quantity input.qty, .woocommerce #content .product_infos .quantity input.qty, .woocommerce-page .product_infos .quantity input.qty, .woocommerce-page #content .product_infos .quantity input.qty, .woocommerce ul.digital-downloads:before, .woocommerce-page ul.digital-downloads:before, .woocommerce ul.digital-downloads li:after, .woocommerce-page ul.digital-downloads li:after, .widget_search .search-form, .woocommerce-cart.woocommerce-page #content .quantity input.qty, .select2-container .select2-dropdown--below, .wcva_layered_nav div.wcva_filter_textblock, ul.products li.product div.wcva_shop_textblock, .woocommerce-account #customer_login form.woocommerce-form-login, .woocommerce-account #customer_login form.woocommerce-form-register{border-color:rgba(34,34,34,0.15) !important}.product_content_wrapper .product_infos table.variations .wcvaswatchlabel.wcva_single_textblock{border-color:rgba(34,34,34,0.15) !important}input#coupon_code, .site-search .spin{border-color:rgba(34,34,34,0.55) !important}.list-centered li a, .woocommerce-account .woocommerce-MyAccount-navigation ul li a, .woocommerce .shop_table.order_details tbody tr:last-child td, .woocommerce-page .shop_table.order_details tbody tr:last-child td, .woocommerce #payment ul.payment_methods li, .woocommerce-page #payment ul.payment_methods li, .comment-separator, .comment-list .pingback, .wpb_widgetised_column .widget, .search_result_item, .woocommerce div.product .woocommerce-tabs ul.tabs li:after, .woocommerce #content div.product .woocommerce-tabs ul.tabs li:after, .woocommerce-page div.product .woocommerce-tabs ul.tabs li:after, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li:after, .woocommerce-checkout .woocommerce-customer-details h2, .off-canvas .menu-close{border-bottom-color:rgba(34,34,34,0.15)}table tr td, .woocommerce table.shop_table td, .woocommerce-page table.shop_table td, .product_socials_wrapper, .woocommerce-tabs, .comments_section, .portfolio_content_nav #nav-below, .product_meta, .woocommerce-checkout form.checkout .woocommerce-checkout-review-order table.woocommerce-checkout-review-order-table .cart-subtotal th, .woocommerce-checkout form.checkout .woocommerce-checkout-review-order table.woocommerce-checkout-review-order-table .cart-subtotal td, .product_navigation, .product_meta, .woocommerce-cart .cart-collaterals .cart_totals table.shop_table tr.order-total th, .woocommerce-cart .cart-collaterals .cart_totals table.shop_table tr.order-total td{border-top-color:rgba(34,34,34,0.15)}.woocommerce .woocommerce-order-details tfoot tr:first-child td, .woocommerce .woocommerce-order-details tfoot tr:first-child th{border-top-color:#222222}.woocommerce-cart .woocommerce table.shop_table.cart tr, .woocommerce-page table.cart tr, .woocommerce-page #content table.cart tr, .widget_shopping_cart .widget_shopping_cart_content ul.cart_list li, .woocommerce-cart .woocommerce-cart-form .shop_table.cart tbody tr td.actions .coupon{border-bottom-color:rgba(34,34,34,0.05)}.woocommerce .cart-collaterals .cart_totals tr.shipping th, .woocommerce-page .cart-collaterals .cart_totals tr.shipping th, .woocommerce .cart-collaterals .cart_totals tr.order-total th, .woocommerce-page .cart-collaterals .cart_totals h2{border-top-color:rgba(34,34,34,0.05)}.woocommerce .cart-collaterals .cart_totals .order-total td, .woocommerce .cart-collaterals .cart_totals .order-total th, .woocommerce-page .cart-collaterals .cart_totals .order-total td, .woocommerce-page .cart-collaterals .cart_totals .order-total th, .woocommerce .cart-collaterals .cart_totals h2, .woocommerce .cart-collaterals .cross-sells h2, .woocommerce-page .cart-collaterals .cart_totals h2{border-bottom-color:rgba(34,34,34,0.15)}table.shop_attributes tr td, .wishlist_table tr td, .shop_table.cart tr td{border-bottom-color:rgba(34,34,34,0.1)}.woocommerce .cart-collaterals, .woocommerce-page .cart-collaterals, .woocommerce-form-track-order, .woocommerce-thankyou-order-details, .order-info, #add_payment_method #payment ul.payment_methods li div.payment_box, .woocommerce #payment ul.payment_methods li div.payment_box{background:rgba(34,34,34,0.05)}.woocommerce-cart .cart-collaterals:before, .woocommerce-cart .cart-collaterals:after, .custom_border:before, .custom_border:after, .woocommerce-order-pay #order_review:before, .woocommerce-order-pay #order_review:after{background-image:radial-gradient(closest-side, transparent 9px, rgba(34,34,34,0.05) 100%)}.wpb_widgetised_column aside ul li span.count, .product-video-icon{background:rgba(34,34,34,0.05)}.comments_section{background-color:rgba(34,34,34,0.01) !important}h1, h2, h3, h4, h5, h6, .entry-title-archive a, .shop_table.woocommerce-checkout-review-order-table tr td, .shop_table.woocommerce-checkout-review-order-table tr th, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content h3.entry-title a, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post_content_wrapper .post_content .entry-title > a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a:hover, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a:hover, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a:hover, .woocommerce ul.products li.product .woocommerce-loop-product__title, .wpb_widgetised_column .widget .product_list_widget a, .woocommerce .cart-collaterals .cart_totals .cart-subtotal th, .woocommerce-page .cart-collaterals .cart_totals .cart-subtotal th, .woocommerce .cart-collaterals .cart_totals tr.shipping th, .woocommerce-page .cart-collaterals .cart_totals tr.shipping th, .woocommerce-page .cart-collaterals .cart_totals tr.shipping th, .woocommerce-page .cart-collaterals .cart_totals tr.shipping td, .woocommerce-page .cart-collaterals .cart_totals tr.shipping td, .woocommerce .cart-collaterals .cart_totals tr.cart-discount th, .woocommerce-page .cart-collaterals .cart_totals tr.cart-discount th, .woocommerce .cart-collaterals .cart_totals tr.order-total th, .woocommerce-page .cart-collaterals .cart_totals tr.order-total th, .woocommerce .cart-collaterals .cart_totals h2, .woocommerce .cart-collaterals .cross-sells h2, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more, .index-layout-2 .with-sidebar ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post_content_wrapper .post_content .read_more, .fr-window-skin-fresco.fr-svg .fr-side-next .fr-side-button-icon:before, .fr-window-skin-fresco.fr-svg .fr-side-previous .fr-side-button-icon:before, .fr-window-skin-fresco.fr-svg .fr-close .fr-close-icon:before, #button_offcanvas_sidebar_left .filters-icon, #button_offcanvas_sidebar_left .filters-text, .select2-container .select2-choice, .shop_header .list_shop_categories li.category_item > a, .shortcode_getbowtied_slider .shortcode-slider-pagination, .yith-wcwl-wishlistexistsbrowse.show a, .product_socials_wrapper .product_socials_wrapper_inner a, .cd-top, .fr-position-outside .fr-position-text, .fr-position-inside .fr-position-text, .cart-collaterals .cart_totals .shop_table tr.cart-subtotal td, .cart-collaterals .cart_totals .shop_table tr.shipping td label, .cart-collaterals .cart_totals .shop_table tr.order-total td, .woocommerce-checkout .woocommerce-checkout-review-order-table ul#shipping_method li label, .catalog-ordering select.orderby, .woocommerce .cart-collaterals .cart_totals table.shop_table_responsive tr td::before, .woocommerce .cart-collaterals .cart_totals table.shop_table_responsive tr td .woocommerce-page .cart-collaterals .cart_totals table.shop_table_responsive tr td::before, .shopkeeper_checkout_coupon, .shopkeeper_checkout_login, .woocommerce-checkout .checkout_coupon_box > .row form.checkout_coupon button[type="submit"]:after, .wpb_wrapper .add_to_cart_inline .woocommerce-Price-amount.amount, .list-centered li a, .woocommerce-account .woocommerce-MyAccount-navigation ul li a, tr.cart-discount td, section.woocommerce-customer-details table.woocommerce-table--customer-details th, .woocommerce-checkout-review-order table.woocommerce-checkout-review-order-table tfoot tr.order-total .amount, ul.payment_methods li > label, #reply-title, .product_infos .out_of_stock_wrapper .out_of_stock_badge_single, .product_content_wrapper .product_infos .woocommerce-variation-availability p.stock.out-of-stock, .tinvwl_add_to_wishlist_button, .woocommerce-cart table.shop_table td.product-subtotal *, .woocommerce-cart.woocommerce-page #content .quantity input.qty, .woocommerce-cart .entry-content .woocommerce .actions>.button, .woocommerce-cart #content table.cart td.actions .coupon:before, form .coupon.focus:after, .checkout_coupon_inner.focus:after, .checkout_coupon_inner:before, .widget_product_categories ul li .count, .widget_layered_nav ul li .count, .error-banner:before, .cart-empty, .cart-empty:before, .wishlist-empty, .wishlist-empty:before, .from_the_blog_title, .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-title, .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-title a, .wpb_widgetised_column .widget.widget_product_categories a, .wpb_widgetised_column .widget.widget_layered_nav a, .widget_layered_nav ul li.chosen a, .widget_product_categories ul li.current-cat > a, .widget_layered_nav_filters a, .reset_variations:hover, .wc-block-review-list-item__product a, .woocommerce-loop-product__title a, label.wcva_single_textblock, .wp-block-woocommerce-reviews-by-product .wc-block-review-list-item__text__read_more:hover, .woocommerce ul.products h3 a, .wpb_widgetised_column .widget a, table.shop_attributes th, #masonry_grid a.more-link, .gbt_18_sk_posts_grid a.more-link, .woocommerce-page #content table.cart.wishlist_table .product-name a, .wc-block-grid .wc-block-pagination button:hover, .wc-block-grid .wc-block-pagination button.wc-block-pagination-page--active, .wc-block-sort-select__select, .wp-block-woocommerce-attribute-filter ul.wc-block-checkbox-list li label, .wp-block-woocommerce-attribute-filter ul.wc-block-checkbox-list li.show-more button:hover, .wp-block-woocommerce-attribute-filter ul.wc-block-checkbox-list li.show-less button:hover, .wp-block-woocommerce-active-filters .wc-block-active-filters__clear-all:hover, .product_infos .group_table label a, .woocommerce-account .account-tab-list .account-tab-item .account-tab-link, .woocommerce-account .account-tab-list .sep, .categories_grid .category_name, .woocommerce-cart .cart-collaterals .cart_totals table small, .woocommerce table.cart .product-name a, .shopkeeper-continue-shopping a.button, .woocommerce-cart td.actions .coupon button[name=apply_coupon]{color:#1c244b}.cd-top{box-shadow:inset 0 0 0 2px rgba(28,36,75, 0.2)}.cd-top svg.progress-circle path{stroke:#1c244b}.product_content_wrapper .product_infos label.selectedswatch.wcvaround, ul.products li.product div.wcva_shop_textblock:hover{border-color:#1c244b !important}#powerTip:before{border-top-color:#1c244b !important}ul.sk_social_icons_list li svg:not(.has-color){fill:#1c244b}@media all and (min-width:75.0625em){.product_navigation #nav-below .product-nav-previous a i, .product_navigation #nav-below .product-nav-next a i{color:#1c244b}}.account-tab-link:hover, .account-tab-link:active, .account-tab-link:focus, .catalog-ordering span.select2-container span, .catalog-ordering .select2-container .selection .select2-selection__arrow:before, .latest_posts_grid_wrapper .latest_posts_grid_title, .wcva_layered_nav div.wcvashopswatchlabel, ul.products li.product div.wcvashopswatchlabel, .product_infos .yith-wcwl-add-button a.add_to_wishlist{color:#1c244b!important}.product_content_wrapper .product_infos table.variations .wcvaswatchlabel:hover, label.wcvaswatchlabel, .product_content_wrapper .product_infos label.selectedswatch, div.wcvashopswatchlabel.wcva-selected-filter, div.wcvashopswatchlabel:hover, div.wcvashopswatchlabel.wcvasquare:hover, .wcvaswatchinput div.wcva-selected-filter.wcvasquare:hover{outline-color:#1c244b!important}.product_content_wrapper .product_infos table.variations .wcvaswatchlabel.wcva_single_textblock:hover, .product_content_wrapper .product_infos table.variations .wcvaswatchlabel.wcvaround:hover, div.wcvashopswatchlabel.wcvaround:hover, .wcvaswatchinput div.wcva-selected-filter.wcvaround{border-color:#1c244b!important}div.wcvaround:hover, .wcvaswatchinput div.wcva-selected-filter.wcvaround, .product_content_wrapper .product_infos table.variations .wcvaswatchlabel.wcvaround:hover{box-shadow:0px 0px 0px 2px #fff inset}#powerTip, .product_content_wrapper .product_infos table.variations .wcva_single_textblock.selectedswatch, .wcvashopswatchlabel.wcvasquare.wcva-selected-filter.wcva_filter_textblock, .woocommerce .wishlist_table td.product-add-to-cart a{color:#fff !important}label.wcvaswatchlabel, .product_content_wrapper .product_infos label.selectedswatch.wcvasquare, div.wcvashopswatchlabel, div.wcvashopswatchlabel:hover, div.wcvashopswatchlabel.wcvasquare:hover, .wcvaswatchinput div.wcva-selected-filter.wcvasquare:hover{border-color:#fff !important}.index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more:before, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post_content_wrapper .post_content .read_more:before, #masonry_grid a.more-link:before, .gbt_18_sk_posts_grid a.more-link:before, .product_content_wrapper .product_infos label.selectedswatch.wcva_single_textblock, #powerTip, .product_content_wrapper .product_infos table.variations .wcva_single_textblock.selectedswatch, .wcvashopswatchlabel.wcvasquare.wcva-selected-filter.wcva_filter_textblock, .categories_grid .category_item:hover .category_name{background-color:#1c244b}#masonry_grid a.more-link:hover:before, .gbt_18_sk_posts_grid a.more-link:hover:before{background-color:#3e184e}.woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a{color:rgba(28,36,75,0.35)}.woocommerce #content div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce-page div.product .woocommerce-tabs ul.tabs li a:hover{color:rgba(28,36,75,0.45)}.fr-thumbnail-loading-background, .fr-loading-background, .blockUI.blockOverlay:before, .yith-wcwl-add-button.show_overlay.show:after, .fr-spinner:after, .fr-overlay-background:after, .search-preloader-wrapp:after, .product_thumbnail .overlay:after, .easyzoom.is-loading:after, .wc-block-grid .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-add-to-cart .wp-block-button__link.loading:after{border-color:rgba(28,36,75,0.35) !important;border-right-color:#1c244b!important}.index-layout-2 ul.blog-posts .blog-post:first-child .post_content_wrapper, .index-layout-2 ul.blog-posts .blog-post:nth-child(5n+5) .post_content_wrapper, .fr-ui-outside .fr-info-background, .fr-info-background, .fr-overlay-background{background-color:#fff!important}.wc-block-featured-product h2.wc-block-featured-category__title, .wc-block-featured-category h2.wc-block-featured-category__title, .wc-block-featured-product *{color:#fff}.product_content_wrapper .product-images-wrapper .product_images .product-images-controller .dot:not(.current), .product_content_wrapper .product-images-wrapper .product_images .product-images-controller li.video-icon .dot:not(.current){border-color:#fff!important}.blockUI.blockOverlay{background:rgba(255,255,255,0.5) !important;}a, a:hover, a:focus, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce input.button:hover, .comments-area a, .edit-link, .post_meta_archive a:hover, .post_meta a:hover, .entry-title-archive a:hover, .no-results-text:before, .list-centered a:hover, .comment-edit-link, .filters-group li:hover, #map_button, .widget_shopkeeper_social_media a, .lost-reset-pass-text:before, .list_shop_categories a:hover, .add_to_wishlist:hover, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .product_infos p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .comment-metadata time, .woocommerce p.stars a.star-1.active:after, .woocommerce p.stars a.star-1:hover:after, .woocommerce-page p.stars a.star-1.active:after, .woocommerce-page p.stars a.star-1:hover:after, .woocommerce p.stars a.star-2.active:after, .woocommerce p.stars a.star-2:hover:after, .woocommerce-page p.stars a.star-2.active:after, .woocommerce-page p.stars a.star-2:hover:after, .woocommerce p.stars a.star-3.active:after, .woocommerce p.stars a.star-3:hover:after, .woocommerce-page p.stars a.star-3.active:after, .woocommerce-page p.stars a.star-3:hover:after, .woocommerce p.stars a.star-4.active:after, .woocommerce p.stars a.star-4:hover:after, .woocommerce-page p.stars a.star-4.active:after, .woocommerce-page p.stars a.star-4:hover:after, .woocommerce p.stars a.star-5.active:after, .woocommerce p.stars a.star-5:hover:after, .woocommerce-page p.stars a.star-5.active:after, .woocommerce-page p.stars a.star-5:hover:after, .yith-wcwl-add-button:before, .yith-wcwl-wishlistaddedbrowse .feedback:before, .yith-wcwl-wishlistexistsbrowse .feedback:before, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .product_meta a:hover, .woocommerce .shop-has-sidebar .no-products-info .woocommerce-info:before, .woocommerce-page .shop-has-sidebar .no-products-info .woocommerce-info:before, .woocommerce .woocommerce-breadcrumb a:hover, .woocommerce-page .woocommerce-breadcrumb a:hover, .from_the_blog_link:hover .from_the_blog_title, .portfolio_single_list_cat a:hover, .widget .recentcomments:before, .widget.widget_recent_entries ul li:before, .wpb_widgetised_column aside ul li.current-cat > span.count, .shopkeeper-mini-cart .widget.woocommerce.widget_shopping_cart .widget_shopping_cart_content p.buttons a.button.checkout.wc-forward, .getbowtied_blog_ajax_load_button:before, .getbowtied_blog_ajax_load_more_loader:before, .getbowtied_ajax_load_button:before, .getbowtied_ajax_load_more_loader:before, .list-centered li.current-cat > a:hover, #button_offcanvas_sidebar_left:hover, .shop_header .list_shop_categories li.category_item > a:hover, #button_offcanvas_sidebar_left .filters-text:hover, .products .yith-wcwl-wishlistaddedbrowse a:before, .products .yith-wcwl-wishlistexistsbrowse a:before, .product_infos .yith-wcwl-wishlistaddedbrowse:before, .product_infos .yith-wcwl-wishlistexistsbrowse:before, .shopkeeper_checkout_coupon a.showcoupon, .woocommerce-checkout .showcoupon, .woocommerce-checkout .showlogin, .woocommerce table.my_account_orders .woocommerce-orders-table__cell-order-actions .button, .woocommerce-account table.account-payment-methods-table td.payment-method-actions .button, .woocommerce-MyAccount-content .woocommerce-pagination .woocommerce-button, body.gbt_classic_notif .woocommerce-message, body.gbt_classic_notif .woocommerce-error, body.gbt_classic_notif .wc-forward, body.gbt_classic_notif .woocommerce-error::before, body.gbt_classic_notif .woocommerce-message::before, body.gbt_classic_notif .woocommerce-info::before, .tinvwl_add_to_wishlist_button:hover, .tinvwl_add_to_wishlist_button.tinvwl-product-in-list:before, .return-to-shop .button.wc-backward, .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-rating .star-rating span::before, .wpb_widgetised_column .widget.widget_product_categories a:hover, .wpb_widgetised_column .widget.widget_layered_nav a:hover, .wpb_widgetised_column .widget a:hover, .wc-block-review-list-item__rating>.wc-block-review-list-item__rating__stars span:before, #masonry_grid a.more-link:hover, .gbt_18_sk_posts_grid a.more-link:hover, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content h3.entry-title a:hover, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post_content_wrapper .post_content .entry-title > a:hover, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more:hover, .index-layout-2 .with-sidebar ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more:hover, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more:hover, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post_content_wrapper .post_content .read_more:hover, .wc-block-grid .wc-block-pagination button, .wc-block-grid__product-rating .wc-block-grid__product-rating__stars span:before, .wp-block-woocommerce-attribute-filter ul.wc-block-checkbox-list li.show-more button, .wp-block-woocommerce-attribute-filter ul.wc-block-checkbox-list li.show-less button, .wp-block-woocommerce-attribute-filter ul.wc-block-checkbox-list li label:hover, .wp-block-woocommerce-active-filters .wc-block-active-filters__clear-all, .product_navigation #nav-below a:hover *, .woocommerce-account .woocommerce-MyAccount-navigation ul li a:hover, .woocommerce-account .woocommerce-MyAccount-navigation ul li.is-active a, .shopkeeper-continue-shopping a.button:hover, .woocommerce-cart td.actions .coupon button[name=apply_coupon]:hover, .woocommerce-cart td.actions .button[name=update_cart]:hover{color:#3e184e}@media only screen and (min-width:40.063em){.nav-next a:hover, .nav-previous a:hover{color:#3e184e}}.widget_shopping_cart .buttons a.view_cart, .widget.widget_price_filter .price_slider_amount .button, .products a.button, .woocommerce .products .added_to_cart.wc-forward, .woocommerce-page .products .added_to_cart.wc-forward, body.gbt_classic_notif .woocommerce-info .button, .url:hover, .product_infos .yith-wcwl-wishlistexistsbrowse a:hover, .wc-block-grid__product-add-to-cart .wp-block-button__link, .products .yith-wcwl-add-to-wishlist:hover .add_to_wishlist:before, .catalog-ordering span.select2-container .selection:hover .select2-selection__rendered, .catalog-ordering .select2-container .selection:hover .select2-selection__arrow:before, .woocommerce-account .woocommerce-MyAccount-content table.woocommerce-MyAccount-orders td.woocommerce-orders-table__cell-order-actions .button:hover, .woocommerce-account .woocommerce-MyAccount-content table.account-payment-methods-table td.payment-method-actions .button:hover, .woocommerce-account .woocommerce-MyAccount-content .woocommerce-pagination .woocommerce-button:hover, .yith-wcwl-add-to-wishlist-button--added svg.yith-wcwl-add-to-wishlist-button-icon{color:#3e184e!important}.post_tags a:hover, .with_thumb_icon, .wpb_wrapper .wpb_toggle:before, #content .wpb_wrapper h4.wpb_toggle:before, .wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon, .wpb_wrapper .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon, .widget .tagcloud a:hover, section.related h2:after, .single_product_summary_upsell h2:after, .page-title.portfolio_item_title:after, .thumbnail_archive_container:before, .from_the_blog_overlay, .select2-results .select2-highlighted, .wpb_widgetised_column aside ul li.chosen span.count, .woocommerce .widget_product_categories ul li.current-cat > a:before, .woocommerce-page .widget_product_categories ul li.current-cat > a:before, .widget_product_categories ul li.current-cat > a:before, #header-loader .bar, .index-layout-2 ul.blog_posts .blog_post .post_content_wrapper .post_content .read_more:before, .index-layout-3 .blog_posts_container ul.blog_posts .blog_post article .post_content_wrapper .post_content .read_more:before, .page-notifications .gbt-custom-notification-notice, input[type="radio"]:before, .input-radio:before, .wc-block-featured-product .wp-block-button__link, .wc-block-featured-category .wp-block-button__link{background:#3e184e}.select2-container--default .select2-results__option--highlighted[aria-selected], .select2-container--default .select2-results__option--highlighted[data-selected]{background-color:#3e184e!important}@media only screen and (max-width:40.063em){.nav-next a:hover, .nav-previous a:hover{background:#3e184e}}.woocommerce .widget_layered_nav ul li.chosen a:before, .woocommerce-page .widget_layered_nav ul li.chosen a:before, .widget_layered_nav ul li.chosen a:before, .woocommerce .widget_layered_nav ul li.chosen:hover a:before, .woocommerce-page .widget_layered_nav ul li.chosen:hover a:before, .widget_layered_nav ul li.chosen:hover a:before, .woocommerce .widget_layered_nav_filters ul li a:before, .woocommerce-page .widget_layered_nav_filters ul li a:before, .widget_layered_nav_filters ul li a:before, .woocommerce .widget_layered_nav_filters ul li a:hover:before, .woocommerce-page .widget_layered_nav_filters ul li a:hover:before, .widget_layered_nav_filters ul li a:hover:before, .woocommerce .widget_rating_filter ul li.chosen a:before, .shopkeeper-mini-cart, .minicart-message, .woocommerce-message, .woocommerce-store-notice, p.demo_store, input[type="checkbox"]:checked:after, .input-checkbox:checked:after, .wp-block-woocommerce-active-filters .wc-block-active-filters-list button:before{background-color:#3e184e}.woocommerce .widget_price_filter .ui-slider .ui-slider-range, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-range, .woocommerce .quantity .plus, .woocommerce .quantity .minus, .woocommerce #content .quantity .plus, .woocommerce #content .quantity .minus, .woocommerce-page .quantity .plus, .woocommerce-page .quantity .minus, .woocommerce-page #content .quantity .plus, .woocommerce-page #content .quantity .minus, .widget_shopping_cart .buttons .button.wc-forward.checkout{background:#3e184e!important}.button, input[type="button"], input[type="reset"], input[type="submit"], .woocommerce-widget-layered-nav-dropdown__submit, .wc-stripe-checkout-button, .wp-block-search .wp-block-search__button, .wpb_wrapper .add_to_cart_inline .added_to_cart, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt.disabled, .woocommerce #respond input#submit.alt.disabled:hover, .woocommerce #respond input#submit.alt:disabled, .woocommerce #respond input#submit.alt:disabled:hover, .woocommerce #respond input#submit.alt:disabled[disabled], .woocommerce #respond input#submit.alt:disabled[disabled]:hover, .woocommerce a.button.alt.disabled, .woocommerce a.button.alt.disabled:hover, .woocommerce a.button.alt:disabled, .woocommerce a.button.alt:disabled:hover, .woocommerce a.button.alt:disabled[disabled], .woocommerce a.button.alt:disabled[disabled]:hover, .woocommerce button.button.alt.disabled, .woocommerce button.button.alt.disabled:hover, .woocommerce button.button.alt:disabled, .woocommerce button.button.alt:disabled:hover, .woocommerce button.button.alt:disabled[disabled], .woocommerce button.button.alt:disabled[disabled]:hover, .woocommerce input.button.alt.disabled, .woocommerce input.button.alt.disabled:hover, .woocommerce input.button.alt:disabled, .woocommerce input.button.alt:disabled:hover, .woocommerce input.button.alt:disabled[disabled], .woocommerce input.button.alt:disabled[disabled]:hover, .widget_shopping_cart .buttons .button, .wpb_wrapper .add_to_cart_inline .add_to_cart_button, .woocommerce .wishlist_table td.product-add-to-cart a, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more:hover:before, .index-layout-2 .with-sidebar ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more:hover:before, .index-layout-2 ul.blog-posts .blog-post .post_content_wrapper .post_content .read_more:hover:before, .index-layout-3 .blog-posts_container ul.blog-posts .blog-post article .post_content_wrapper .post_content .read_more:hover:before{background-color:#3e184e}.product_infos .yith-wcwl-wishlistaddedbrowse a:hover, .shipping-calculator-button:hover, .products a.button:hover, .woocommerce .products .added_to_cart.wc-forward:hover, .woocommerce-page .products .added_to_cart.wc-forward:hover, .products .yith-wcwl-wishlistexistsbrowse:hover a, .products .yith-wcwl-wishlistaddedbrowse:hover a, .order-number a:hover, .post-edit-link:hover, .getbowtied_ajax_load_button a:not(.disabled):hover, .getbowtied_blog_ajax_load_button a:not(.disabled):hover{color:rgba(62,24,78,0.8) !important}.woocommerce ul.products li.product .woocommerce-loop-product__title:hover, .woocommerce-loop-product__title a:hover{color:rgba(28,36,75,0.8)}.woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .widget_shopping_cart .buttons .button:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, .woocommerce .product_infos .quantity .minus:hover, .woocommerce #content .product_infos .quantity .minus:hover, .woocommerce-page .product_infos .quantity .minus:hover, .woocommerce-page #content .product_infos .quantity .minus:hover, .woocommerce .quantity .plus:hover, .woocommerce #content .quantity .plus:hover, .woocommerce-page .quantity .plus:hover, .woocommerce-page #content .quantity .plus:hover, .wpb_wrapper .add_to_cart_inline .add_to_cart_button:hover, .woocommerce-widget-layered-nav-dropdown__submit:hover, .woocommerce-checkout a.button.wc-backward:hover{background:rgba(62,24,78,0.7)}.post_tags a:hover, .widget .tagcloud a:hover, .widget_shopping_cart .buttons a.view_cart, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_product_categories ul li.current-cat > a:before, .woocommerce-page .widget_product_categories ul li.current-cat > a:before, .widget_product_categories ul li.current-cat > a:before, .widget_product_categories ul li a:hover:before, .widget_layered_nav ul li a:hover:before, input[type="radio"]:checked:after, .input-radio:checked:after, input[type="checkbox"]:checked:after, .input-checkbox:checked:after, .return-to-shop .button.wc-backward{border-color:#3e184e}.wpb_tour.wpb_content_element .wpb_tabs_nav li.ui-tabs-active a, .wpb_tabs.wpb_content_element .wpb_tabs_nav li.ui-tabs-active a, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active a, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active a, .language-and-currency #top_bar_language_list > ul > li.menu-item-first > ul.sub-menu li a:hover, .language-and-currency .wcml_currency_switcher > ul > li.wcml-cs-active-currency ul.wcml-cs-submenu li a:hover{border-bottom-color:#3e184e}.woocommerce div.product .woocommerce-tabs ul.tabs li.active, .woocommerce #content div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page div.product .woocommerce-tabs ul.tabs li.active, .woocommerce-page #content div.product .woocommerce-tabs ul.tabs li.active{border-top-color:#3e184e!important}.off-canvas, .offcanvas_content_left, .offcanvas_content_right{background-color:#ffffff;color:#545454}.off-canvas .menu-close .close-button{color:#ffffff}.off-canvas table tr th, .off-canvas table tr td, .off-canvas table thead tr th, .off-canvas blockquote p, .off-canvas label, .off-canvas .widget_search .search-form:after, .off-canvas .woocommerce-product-search:after, .off-canvas .submit_icon, .off-canvas .widget_search #searchsubmit, .off-canvas .widget_product_search .search-submit, .off-canvas .widget_search .search-submit, .off-canvas .woocommerce-product-search button[type="submit"], .off-canvas .wpb_widgetised_column .widget_calendar table thead tr th, .off-canvas .add_to_cart_inline .amount, .off-canvas .wpb_widgetised_column .widget, .off-canvas .wpb_widgetised_column .widget.widget_layered_nav a, .off-canvas .widget_layered_nav ul li a, .widget_layered_nav, .off-canvas .shop_table.cart .product-price .amount, .off-canvas .site-search-close .close-button{color:#545454!important}.off-canvas .menu-close .close-button{background:#545454}.off-canvas .wpb_widgetised_column .widget a:not(.button):hover, .product_infos .yith-wcwl-add-button a.add_to_wishlist:hover{color:#3e184e!important}.off-canvas .widget-title, .off-canvas .mobile-navigation li a, .off-canvas .mobile-navigation ul li .spk-icon-down-small:before, .off-canvas .mobile-navigation ul li .spk-icon-up-small:before, .off-canvas.site-search .widget_product_search .search-field, .off-canvas.site-search .widget_search .search-field, .off-canvas.site-search input[type="search"], .off-canvas .widget_product_search input[type="submit"], .off-canvas.site-search .search-form .search-field, .off-canvas .woocommerce ul.products li.product .woocommerce-loop-product__title, .off-canvas .wpb_widgetised_column .widget.widget_product_categories a, .off-canvas .wpb_widgetised_column .widget a:not(.button){color:#1c244b!important}.off-canvas ul.sk_social_icons_list li svg{fill:#1c244b}.off-canvas .site-search-close .close-button:hover, .off-canvas .search-text, .off-canvas .widget_search .search-form:after, .off-canvas .woocommerce-product-search:after, .off-canvas .submit_icon, .off-canvas .widget_search #searchsubmit, .off-canvas .widget_product_search .search-submit, .off-canvas .widget_search .search-submit, .off-canvas .woocommerce-product-search button[type="submit"], .off-canvas .wpb_widgetised_column .widget_price_filter .price_slider_amount{color:rgba(84,84,84,0.55) !important}.off-canvas.site-search input[type="search"], .off-canvas .menu-close, .off-canvas .wpb_widgetised_column .widget, .wcva-filter-widget{border-color:rgba(84,84,84,0.1) !important}.off-canvas.site-search input[type="search"]::-webkit-input-placeholder{color:rgba(84,84,84,0.55) !important}.off-canvas.site-search input[type="search"]::-moz-placeholder{color:rgba(84,84,84,0.55) !important}.off-canvas.site-search input[type="search"]:-ms-input-placeholder{color:rgba(84,84,84,0.55) !important}.off-canvas.site-search input[type="search"]:-moz-placeholder{color:rgba(84,84,84,0.55) !important}#site-top-bar, .site-navigation-top-bar .sf-menu ul{background:#333333}#site-top-bar, #site-top-bar a, #site-top-bar .main-navigation > ul > li:after, .language-and-currency .wcml_currency_switcher > ul > li.wcml-cs-active-currency > a{color:#ffffff}#site-top-bar ul.sk_social_icons_list li svg{fill:#ffffff}.top-headers-wrapper .site-header .site-header-wrapper, #site-top-bar .site-top-bar-inner{max-width:100%}.top-headers-wrapper.sticky .site-header{background-color:#ffffff}.site-header, .default-navigation{font-size:12px}.top-headers-wrapper .site-header .main-navigation > ul > li ul, #site-top-bar .main-navigation > ul > li ul{background-color:#ffffff}.top-headers-wrapper .site-header .main-navigation > ul > li ul li a, #site-top-bar .main-navigation > ul > li ul li a, .main-navigation > ul ul li.menu-item-has-children:after{color:#0a0a0a}.main-navigation ul ul li a, #site-top-bar .main-navigation ul ul li a{background-image:linear-gradient(transparent calc(100% - 2px), rgba(10,10,10,1) 2px)}.site-header, .main-navigation a, .main-navigation > ul > li:after, .site-tools > ul > li > a > span, .shopping_bag_items_number, .wishlist_items_number, .site-title a, .widget_product_search .search-but-added, .widget_search .search-but-added, .site-header .site-header-wrapper .site-title{color:#0a0a0a}.site-header-sticky.sticky .site-header, .site-header-sticky.sticky .main-navigation a, .site-header-sticky.sticky .main-navigation > ul > li:after, .site-header-sticky.sticky .site-tools > ul > li > a > span, .site-header-sticky.sticky .shopping_bag_items_number, .site-header-sticky.sticky .wishlist_items_number, .site-header-sticky.sticky .site-title a, .site-header-sticky.sticky .widget_product_search .search-but-added, .site-header-sticky.sticky .widget_search .search-but-added, .site-header-sticky.sticky .site-header .site-header-wrapper .site-title, #page_wrapper.transparent_header .site-header-sticky.sticky .site-header .site-header-wrapper .site-title{color:#000000}.site-branding{border-color:#0a0a0a}.site-header{background-color:#ffffff}@media only screen and (max-width:1024px){.top-headers-wrapper .site-header .site-branding img.mobile-logo-img{max-height:33px}.off-canvas .mobile-navigation{border-color:rgba(84,84,84,0.1) !important}.mobile-navigation ul li .more{background:rgba(84,84,84, 0.1)}}@media only screen and (min-width:1025px){.transparent_header .content-area{padding-top:145px}.transparent_header .single-post-header.with-thumb, .transparent_header .page-title-hidden:not(.boxed-page), .transparent_header .entry-header-page.with-featured-img, .transparent_header .shop_header.with_featured_img, .transparent_header .entry-header.with_featured_img{margin-top:-145px}.top-headers-wrapper:not(.sticky) .site-header .site-branding img.site-logo-img{max-height:40px}.top-headers-wrapper.sticky .site-header .site-branding img.sticky-logo-img{max-height:40px}.top-headers-wrapper:not(.sticky) .site-header{padding-top:12px;padding-bottom:8px}.top-headers-wrapper.sticky .site-header{padding-top:14px;padding-bottom:8px}.site-header, .main-navigation a, .site-tools ul li a, .shopping_bag_items_number, .wishlist_items_number, .site-title a, .widget_product_search .search-but-added, .widget_search .search-but-added{color:#0a0a0a}.site-branding{border-color:#0a0a0a}#page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .main-navigation > ul > li > a, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .main-navigation > ul > li:after, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .site-tools > ul > li > a > span, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .shopping_bag_items_number, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .wishlist_items_number, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .site-title a, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .widget_product_search .search-but-added, #page_wrapper.transparent_header.transparency_light .top-headers-wrapper:not(.sticky) .site-header .widget_search .search-but-added, #page_wrapper.transparent_header.transparency_light .site-header .site-header-wrapper .site-title{color:#ffffff}#page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .main-navigation > ul > li > a, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .main-navigation > ul > li:after, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .site-tools > ul > li > a > span, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .shopping_bag_items_number, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .wishlist_items_number, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .site-title a, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .widget_product_search .search-but-added, #page_wrapper.transparent_header.transparency_dark .top-headers-wrapper:not(.sticky) .site-header .widget_search .search-but-added, #page_wrapper.transparent_header.transparency_dark .site-header .site-header-wrapper .site-title{color:#ffffff}.site-header.sticky, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header{background:#ffffff}.site-header.sticky, .site-header.sticky .main-navigation a, .site-header.sticky .site-tools ul li a, .site-header.sticky .shopping_bag_items_number, .site-header.sticky .wishlist_items_number, .site-header.sticky .site-title a, .site-header.sticky .widget_product_search .search-but-added, .site-header.sticky .widget_search .search-but-added, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .main-navigation > ul > li > a, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .main-navigation > ul > li:after, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .site-tools > ul > li > a > span, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .shopping_bag_items_number, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .wishlist_items_number, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .site-title a, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .widget_product_search .search-but-added, #page_wrapper.transparent_header .top-headers-wrapper.sticky .site-header .widget_search .search-but-added{color:#000000}.top-headers-wrapper.sticky .site-header .site-branding{border-color:#000000}}.site-footer{background:#d6d6d6}.site-footer, .site-footer .copyright_text a{color:#666666}.site-footer a, .site-footer .widget-title, .footer-navigation-wrapper ul li:after{color:#000000}.footer_socials_wrapper ul.sk_social_icons_list li svg, .site-footer-widget-area ul.sk_social_icons_list li svg{fill:#000000}.wp-block-latest-posts a, .wp-block-button, .wp-block-cover .wp-block-cover-text, .wp-block-subhead, .wp-block-image	figcaption, .wp-block-quote p, .wp-block-quote cite, .wp-block-quote .editor-rich-text, .wp-block-pullquote p, .wp-block-pullquote cite, .wp-block-pullquote .editor-rich-text, .gbt_18_sk_latest_posts_title, .gbt_18_sk_editor_banner_title, .gbt_18_sk_editor_slide_title_input, .gbt_18_sk_editor_slide_button_input, .wp-block-media-text .wp-block-media-text__content p, .wp-block-getbowtied-vertical-slider .gbt_18_current_slide, .wp-block-getbowtied-vertical-slider .gbt_18_number_of_items, .wp-block-woocommerce-all-reviews .wc-block-review-list-item__product a, .wc-block-grid__product-price, .wc-block-order-select__select, .gbt_18_sk_slider_wrapper .gbt_18_sk_slide_button, .gbt_18_sk_posts_grid .gbt_18_sk_posts_grid_title, .gbt_18_sk_editor_portfolio_item_title, .editor-post-title .editor-post-title__input, .wc-products-block-preview .product-title, .wc-products-block-preview .product-add-to-cart, .wc-block-products-category .wc-product-preview__title, .wc-block-products-category .wc-product-preview__add-to-cart, .wc-block-grid__product-onsale, .wc-block-featured-product__price .woocommerce-Price-amount, .wp-block-getbowtied-vertical-slider a.added_to_cart, .wp-block-getbowtied-vertical-slider .gbt_18_slide_link a, .wp-block-getbowtied-vertical-slider .price, .wp-block-getbowtied-lookbook-reveal .gbt_18_product_price *, .gbt_18_pagination a, .gbt_18_snap_look_book .gbt_18_hero_section_content .gbt_18_hero_subtitle, .gbt_18_snap_look_book .gbt_18_look_book_item .gbt_18_shop_this_book .gbt_18_current_book, .wp-block-getbowtied-scattered-product-list .gbt_18_product_price, .wc-block-grid__product-price span{font-family:"NeueEinstellung", -apple-system, BlinkMacSystemFont, Arial, Helvetica, 'Helvetica Neue', Verdana, sans-serif}.gbt_18_sk_latest_posts_title, .wp-block-quote p, .wp-block-pullquote p, .wp-block-quote cite, .wp-block-pullquote cite, .wp-block-media-text p, .wc-block-order-select__select, .wp-block-getbowtied-vertical-slider .gbt_18_slide_title a, .wp-block-getbowtied-vertical-slider .gbt_18_slide_link a, .gbt_18_sk_posts_grid_title{color:#1c244b}.gbt_18_sk_latest_posts_title:hover, .gbt_18_sk_posts_grid_title:hover, .wp-block-getbowtied-vertical-slider .price, .wp-block-getbowtied-scattered-product-list a:hover .gbt_18_product_title{color:#3e184e}.wp-block-latest-posts__post-date, .wp-block-audio figcaption, .wp-block-video figcaption{color:#222222}.wp-block-getbowtied-vertical-slider .gbt_18_slide_link{border-top-color:rgba(34,34,34,0.1) !important}.wp-block-quote:not(.is-large):not(.is-style-large), .wp-block-quote{border-left-color:#1c244b}.gbt_18_default_slider .gbt_18_content .gbt_18_content_wrapper .gbt_18_next_slide, .gbt_18_default_slider .gbt_18_content .gbt_18_content_wrapper .gbt_18_prev_slide{border:2px solid #1c244b !important}.wp-block-pullquote{border-top-color:#1c244b;border-bottom-color:#1c244b}.gbt_18_sk_latest_posts_item_link:hover .gbt_18_sk_latest_posts_img_overlay, .wp-block-getbowtied-vertical-slider a.added_to_cart{background:#3e184e}p.has-drop-cap:first-letter{font-size:41.041px !important}@media only screen and (min-width:768px){p.has-drop-cap:first-letter{font-size:50.512px !important}}.gbt_18_snap_look_book .gbt_18_hero_section_content .gbt_18_hero_title{font-size:41.041px}@media only screen and (min-width:768px){.gbt_18_snap_look_book .gbt_18_hero_section_content .gbt_18_hero_title{font-size:50.512px}}.wp-block-getbowtied-vertical-slider .gbt_18_slide_title a{font-size:28.432px}@media only screen and (max-width:1024px){.wp-block-getbowtied-vertical-slider .gbt_18_slide_title a{font-size:23.101px}}@media only screen and (min-width:1024px){.gbt_18_lookbook_reveal_wrapper .gbt_18_distorsion_lookbook_content .gbt_18_text_wrapper .gbt_18_description, .gbt_18_lookbook_reveal_wrapper .gbt_18_distorsion_lookbook_content .gbt_18_text_wrapper .gbt_18_description *{font-size:12px}}.woocommerce .woocommerce-breadcrumb, .woocommerce-page .woocommerce-breadcrumb{display:none}@media only screen and (max-width:767px){body.single-product .product_content_wrapper .product_infos form.cart .button:hover{background:#3e184e!important}}.woocommerce ul.products li.product .onsale, .woocommerce .products span.onsale, .woocommerce-page .products span.onsale, .woocommerce span.onsale, .wp-block-getbowtied-carousel ul.products li.product .onsale, .wc-block-grid .wc-block-grid__products .wc-block-grid__product .wc-block-grid__product-onsale{background:#93af76}.shopkeeper_new_product{background-color:#ff5943}form.cart div.quantity, form.cart button.single_add_to_cart_button{display:none !important}
+/*# sourceURL=shopkeeper-styles-inline-css */
+</style>
+<link rel='stylesheet' id='shopkeeper-default-style-css' href='https://leotec.com/wp-content/themes/shopkeeper/style.css?ver=8.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://leotec.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.34.2' type='text/css' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://leotec.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.5.8' type='text/css' media='all' />
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="addtoany-core-js-before">
+/* <![CDATA[ */
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_localize = {
+	Share: "Compartir",
+	Save: "Guardar",
+	Subscribe: "Suscribir",
+	Email: "Correo electrónico",
+	Bookmark: "Marcador",
+	ShowAll: "Mostrar todo",
+	ShowLess: "Mostrar menos",
+	FindServices: "Encontrar servicio(s)",
+	FindAnyServiceToAddTo: "Encuentra al instante cualquier servicio para añadir a",
+	PoweredBy: "Funciona con",
+	ShareViaEmail: "Compartir por correo electrónico",
+	SubscribeViaEmail: "Suscribirse a través de correo electrónico",
+	BookmarkInYourBrowser: "Añadir a marcadores de tu navegador",
+	BookmarkInstructions: "Presiona «Ctrl+D» o «\u2318+D» para añadir esta página a marcadores",
+	AddToYourFavorites: "Añadir a tus favoritos",
+	SendFromWebOrProgram: "Enviar desde cualquier dirección o programa de correo electrónico ",
+	EmailProgram: "Programa de correo electrónico",
+	More: "Más&#8230;",
+	ThanksForSharing: "¡Gracias por compartir!",
+	ThanksForFollowing: "¡Gracias por seguirnos!"
+};
+
+
+//# sourceURL=addtoany-core-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="https://static.addtoany.com/menu/page.js" id="addtoany-core-js"></script>
+<script type="text/javascript" defer src="https://leotec.com/wp-content/plugins/add-to-any/addtoany.min.js?ver=1.1" id="addtoany-jquery-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/docu/assets/js/imagesloaded.pkgd.min.js?ver=3.1" id="docu-imagesloaded-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/docu/assets/js/frontend.js?ver=1.0" id="docu-frontend-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.10.4.3" id="wc-jquery-blockui-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.10.4.3" id="wc-js-cookie-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"/wp-admin/admin-ajax.php","wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_password_show":"Mostrar contrase\u00f1a","i18n_password_hide":"Ocultar contrase\u00f1a"};
+//# sourceURL=woocommerce-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=10.4.3" id="woocommerce-js" defer="defer" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://leotec.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://leotec.com/xmlrpc.php?rsd" />
+<style>p.hello{font-size:12px;color:darkgray;}#google_language_translator,#flags{text-align:left;}#google_language_translator,#language{clear:both;width:160px;text-align:right;}#language{float:right;}#flags{text-align:right;width:165px;float:right;clear:right;}#flags ul{float:right!important;}p.hello{text-align:right;float:right;clear:both;}.glt-clear{height:0px;clear:both;margin:0px;padding:0px;}#flags{width:165px;}#flags a{display:inline-block;margin-left:2px;}#google_language_translator a{display:none!important;}div.skiptranslate.goog-te-gadget{display:inline!important;}.goog-te-gadget{color:transparent!important;}.goog-te-gadget{font-size:0px!important;}.goog-branding{display:none;}.goog-tooltip{display: none!important;}.goog-tooltip:hover{display: none!important;}.goog-text-highlight{background-color:transparent!important;border:none!important;box-shadow:none!important;}#google_language_translator select.goog-te-combo{color:#32373c;}div.skiptranslate{display:none!important;}body{top:0px!important;}#goog-gt-{display:none!important;}font font{background-color:transparent!important;box-shadow:none!important;position:initial!important;}#glt-translate-trigger > span{color:#ffffff;}#glt-translate-trigger{background:#f89406;}.goog-te-gadget .goog-te-combo{width:100%;}</style>		<style>
+			.dgwt-wcas-ico-magnifier,.dgwt-wcas-ico-magnifier-handler{max-width:20px}.dgwt-wcas-search-wrapp{max-width:60px}		</style>
+			<style>
+		.site-search.off-canvas {
+			min-height: 100px;
+		}
+
+		.admin-bar .site-search.off-canvas {
+			min-height: 130px;
+		}
+
+		.site-search.off-canvas > .row {
+			margin-top: 30px;
+		}
+
+		.site-search.off-canvas p.search-text {
+			position: absolute;
+			top: 14px;
+			left: 20px;
+		}
+
+		.site-search-close {
+			position: absolute;
+			top: 5px;
+			right: 20px;
+		}
+
+		.site-search .dgwt-wcas-search-wrapp {
+			max-width: 800px;
+		}
+
+		.site-search .dgwt-wcas-search-input {
+			font-size: 20px;
+			border: none;
+			border-bottom: 1px solid #ccc;
+		}
+
+		@media (max-width: 1400px) {
+			.site-search .dgwt-wcas-search-wrapp {
+				max-width: 700px;
+			}
+		}
+
+		@media (max-width: 1250px) {
+			.site-search .dgwt-wcas-search-wrapp {
+				max-width: 500px;
+			}
+		}
+
+		@media (max-width: 1000px) {
+			.site-search.off-canvas p.search-text {
+				display: none;
+			}
+
+			.site-search .dgwt-wcas-search-wrapp {
+				max-width: calc(100% - 30px);
+				margin-left: 0;
+			}
+		}
+
+		@media (max-width: 768px) {
+			/*.site-search.off-canvas {*/
+			/*	display: none;*/
+			/*}*/
+		}
+
+	</style>
+			<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+				<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://leotec.com/wp-content/uploads/2017/05/favicon.jpg" sizes="32x32" />
+<link rel="icon" href="https://leotec.com/wp-content/uploads/2017/05/favicon.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://leotec.com/wp-content/uploads/2017/05/favicon.jpg" />
+<meta name="msapplication-TileImage" content="https://leotec.com/wp-content/uploads/2017/05/favicon.jpg" />
+		<style type="text/css" id="wp-custom-css">
+			.site-footer {
+    padding: 1em 0 1em !important;
+height: 100px;  /* footer height */
+}
+
+/** Start Block Kit CSS: 136-3-fc37602abad173a9d9d95d89bbe6bb80 **/
+
+.envato-block__preview{overflow: visible !important;}
+
+/** End Block Kit CSS: 136-3-fc37602abad173a9d9d95d89bbe6bb80 **/
+
+
+
+/** Start Block Kit CSS: 69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9 **/
+
+.envato-kit-66-menu .e--pointer-framed .elementor-item:before{
+	border-radius:1px;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper{
+	position:relative;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit{
+	position:static;
+}
+
+.envato-kit-66-subscription-form .elementor-form-fields-wrapper .elementor-field-type-submit button{
+	position: absolute;
+    top: 50%;
+    right: 6px;
+    transform: translate(0, -50%);
+		-moz-transform: translate(0, -50%);
+		-webmit-transform: translate(0, -50%);
+}
+
+.envato-kit-66-testi-slider .elementor-testimonial__footer{
+	margin-top: -60px !important;
+	z-index: 99;
+  position: relative;
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	left:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-prev:before{
+	display:block;
+	margin-top:0px;
+	margin-left:0px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next{
+	width:50px;
+	height:50px;
+	background-color:#ffffff !important;
+	transform:rotate(45deg);
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	right:-25px !important;
+	-webkit-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	-moz-box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+	box-shadow: 0px 1px 2px 1px rgba(0,0,0,0.32);
+}
+
+.envato-kit-66-featured-slider .elementor-slides .slick-next:before{
+	display:block;
+	margin-top:-5px;
+	margin-right:-5px;
+	transform:rotate(-45deg);
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+}
+
+.envato-kit-66-orangetext{
+	color:#f4511e;
+}
+
+.envato-kit-66-countdown .elementor-countdown-label{
+	display:inline-block !important;
+	border:2px solid rgba(255,255,255,0.2);
+	padding:9px 20px;
+}
+
+/** End Block Kit CSS: 69-3-4f8cfb8a1a68ec007f2be7a02bdeadd9 **/
+.grecaptcha-badge { visibility: hidden; }
+
+
+/** Start Block Kit CSS: 135-3-c665d4805631b9a8bf464e65129b2f58 **/
+
+.envato-block__preview{overflow: visible;}
+
+/** End Block Kit CSS: 135-3-c665d4805631b9a8bf464e65129b2f58 **/
+.df-popup-thumb:hover * {
+    transform: none !important;
+}
+.df-popup-thumb .df-book-page1,
+.df-popup-thumb .df-book-page2{
+    display:none;
+}
+.df-popup-thumb img.df-lazy {
+  transform: scale(1);
+  opacity: 1;
+}
+.df-popup-thumb span.df-book-title {
+    display: none;
+}
+
+.df-popup-thumb img.df-lazy {		</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript></head>
+
+<body data-rsssl=1 class="error404 wp-embed-responsive wp-theme-shopkeeper theme-shopkeeper woocommerce-no-js gbt_classic_notif elementor-default elementor-kit-64554">
+
+    
+    
+        
+        
+    	<div id="st-container" class="st-container">
+
+            <div class="st-content">
+
+                                <div id="page_wrapper" class=" transparency_light">
+
+                    
+                        
+                        <div class="top-headers-wrapper site-header-sticky">
+
+                            
+<header id="masthead" class="site-header default full-header-width" role="banner">
+    <div class="row">
+        <div class="site-header-wrapper">
+
+            <div class="site-branding">
+                
+    <div class="site-logo">
+        <a href="https://leotec.com/" rel="home">
+                            <img width="220" height="66" src="https://leotec.com/wp-content/uploads/2019/02/Logotipo-2.png" class="site-logo-img" alt="Leotec" decoding="async" />                    </a>
+    </div>
+
+            <div class="sticky-logo">
+            <a href="https://leotec.com/" rel="home">
+                                    <img width="220" height="66" src="https://leotec.com/wp-content/uploads/2019/02/Logotipo-2.png" class="sticky-logo-img" alt="Leotec" decoding="async" />                            </a>
+        </div>
+    
+    <div class="mobile-logo">
+        <a href="https://leotec.com/" rel="home">
+                            <img width="220" height="66" src="https://leotec.com/wp-content/uploads/2019/02/Logotipo-2.png" class="mobile-logo-img" alt="Leotec" decoding="async" />                    </a>
+    </div>
+
+                </div>
+
+            <div class="menu-wrapper">
+                                            <nav class="show-for-large main-navigation default-navigation align_right" role="navigation" aria-label="Main Menu">
+            <ul class="menu-leotec2"><li id="menu-item-42424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42424"><a href="https://leotec.com/donde-comprar/">Compra Leotec</a></li>
+<li id="menu-item-48763" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48763"><a href="#">Productos</a>
+<ul class="sub-menu">
+	<li id="menu-item-79913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79913"><a href="https://leotec.com/catalogos-digitales/">Catálogos</a></li>
+	<li id="menu-item-79694" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79694"><a href="https://leotec.com/tienda/accesorios/">Accesorios</a></li>
+	<li id="menu-item-79695" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79695"><a href="https://leotec.com/tienda/hogar-digital/">Hogar Digital</a></li>
+	<li id="menu-item-79696" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79696"><a href="https://leotec.com/tienda/movilidad/">Movilidad</a></li>
+	<li id="menu-item-79697" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79697"><a href="https://leotec.com/tienda/salud-y-bienestar/">Salud y Bienestar</a></li>
+</ul>
+</li>
+<li id="menu-item-42546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42546"><a href="#">Servicios</a>
+<ul class="sub-menu">
+	<li id="menu-item-42550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42550"><a href="https://leotec.com/empresas/">Empresas</a></li>
+	<li id="menu-item-42548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42548"><a href="https://leotec.com/proyectos/">Proyectos</a></li>
+</ul>
+</li>
+<li id="menu-item-907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-907"><a href="#">Nosotros</a>
+<ul class="sub-menu">
+	<li id="menu-item-1467" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1467"><a href="https://www.worlddriversa.com">Información corporativa</a></li>
+	<li id="menu-item-20496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20496"><a href="https://leotec.com/politica-de-cookies/">Política de cookies</a></li>
+	<li id="menu-item-20497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-20497"><a rel="privacy-policy" href="https://leotec.com/politica-de-privacidad/">Política de privacidad</a></li>
+	<li id="menu-item-4633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4633"><a href="https://leotec.com/sala-de-prensa/">Sala de Prensa</a></li>
+</ul>
+</li>
+<li id="menu-item-41776" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41776"><a href="#">Soporte</a>
+<ul class="sub-menu">
+	<li id="menu-item-82777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82777"><a href="https://leotec.com/soporte-tecnico/">Soporte Técnico</a></li>
+	<li id="menu-item-93379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93379"><a href="https://leotec.com/condiciones-generales-de-garantia-leotec/">Garantías</a></li>
+	<li id="menu-item-82776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82776"><a href="https://leotec.com/manuales/">Manuales y Guías</a></li>
+	<li id="menu-item-87066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87066"><a href="https://sites.google.com/view/imagenes-leotec/inicio">Banco de imágenes</a></li>
+	<li id="menu-item-87079" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87079"><a href="https://leotec.com/declaracion-de-conformidad/">Declaraciones de conformidad</a></li>
+</ul>
+</li>
+</ul>        </nav>
+                        
+                <div class="site-tools">
+                        <ul>
+        
+                    
+                    
+                    <li class="offcanvas-menu-button search-button">
+                <a class="tools_button" role="button" aria-label="offCanvasTop1" data-toggle="offCanvasTop1">
+                    <span class="tools_button_icon">
+                                                    <i class="spk-icon spk-icon-search"></i>
+                                            </span>
+                </a>
+            </li>
+        
+                <li class="offcanvas-menu-button hide-for-large">
+            <a class="tools_button" role="button" aria-label="offCanvasRight1" data-toggle="offCanvasRight1">
+                <span class="tools_button_icon">
+                                            <i class="spk-icon spk-icon-menu"></i>
+                                    </span>
+            </a>
+        </li>
+    </ul>
+                    </div>
+            </div>
+
+        </div>
+    </div>
+</header>
+
+                        </div>
+                        
+
+	<div id="primary" class="content-area">
+
+	    <div class="row">
+	        <div class="large-10 large-centered columns">
+	            <div id="content" class="site-content" role="main">
+
+	                <section class="error-404 not-found">
+	                    <header class="page-header">
+	                        <div class="error-banner"></div>
+	                        <h1 class="page-title">Oops 404 again! That page can&#039;t be found.</h1>
+	                    </header><!-- .page-header -->
+
+	                    <div class="page-content">
+
+	                        <p class="error-404-text">It looks like nothing was found at this location. Maybe try a search?</p>
+
+	                        <form role="search" method="get" class="search-form" action="https://leotec.com/">
+    <label class="screen-reader-text" for="s">Search for:</label>
+    <input id="s" type="search" class="search-field" placeholder="Search &hellip;" value="" name="s">
+    <input type="submit" class="search-submit" value="Search">
+</form>
+
+	                    </div><!-- .page-content -->
+	                </section><!-- .error-404 -->
+
+	            </div><!-- #content -->
+	        </div><!-- .large-12 .columns -->
+	    </div><!-- .row -->
+
+	</div><!-- #primary -->
+
+
+
+			
+			
+			
+				<footer id="site-footer" class="site-footer">
+
+					
+					<div class="site-footer-copyright-area">
+						<div class="row">
+							<div class="large-12 columns">
+
+								
+								<nav class="footer-navigation-wrapper">
+																	</nav><!-- #site-navigation -->
+
+								<div class="copyright_text">
+                                    Leotec Digital LifeStyle SL - CIF B62646104.
+Avda. de Josep Tarradellas i Joan 259 Bajo 08901 L'Hospitalet de Llobregat (Barcelona). Tel.: 93 267 66 00 info@leotec.com                                </div><!-- .copyright_text -->
+
+							</div><!--.large-12-->
+						</div><!-- .row -->
+					</div><!-- .site-footer-copyright-area -->
+
+				</footer>
+
+			
+			</div><!-- #page_wrapper -->
+
+		</div><!--</st-content -->
+
+	</div><!-- .st-container -->
+
+
+
+    <!-- Filters Offcanvas -->
+    
+    <!-- Back To Top Button -->
+            <a href="#0" class="cd-top progress-wrap">
+            <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+                <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"/>
+            </svg>
+        </a>
+    
+    
+    <!-- Mobile Menu Offcanvas -->
+    <div class="off-canvas menu-offcanvas position-right " id="offCanvasRight1" data-off-canvas>
+
+        <div class="menu-close hide-for-medium">
+            <button class="close-button" aria-label="Close menu" type="button" data-close>
+                <span aria-hidden="true">×</span>
+            </button>
+        </div>
+
+        <div id="mobiles-menu-offcanvas">
+
+                    <nav class="mobile-navigation primary-navigation hide-for-large" role="navigation" aria-label="Main Menu">
+            <ul class="menu-leotec2-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42424"><a href="https://leotec.com/donde-comprar/">Compra Leotec</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-48763"><a href="#">Productos</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79913"><a href="https://leotec.com/catalogos-digitales/">Catálogos</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79694"><a href="https://leotec.com/tienda/accesorios/">Accesorios</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79695"><a href="https://leotec.com/tienda/hogar-digital/">Hogar Digital</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79696"><a href="https://leotec.com/tienda/movilidad/">Movilidad</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-79697"><a href="https://leotec.com/tienda/salud-y-bienestar/">Salud y Bienestar</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42546"><a href="#">Servicios</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42550"><a href="https://leotec.com/empresas/">Empresas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42548"><a href="https://leotec.com/proyectos/">Proyectos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-907"><a href="#">Nosotros</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1467"><a href="https://www.worlddriversa.com">Información corporativa</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20496"><a href="https://leotec.com/politica-de-cookies/">Política de cookies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-20497"><a rel="privacy-policy" href="https://leotec.com/politica-de-privacidad/">Política de privacidad</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4633"><a href="https://leotec.com/sala-de-prensa/">Sala de Prensa</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-41776"><a href="#">Soporte</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82777"><a href="https://leotec.com/soporte-tecnico/">Soporte Técnico</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93379"><a href="https://leotec.com/condiciones-generales-de-garantia-leotec/">Garantías</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82776"><a href="https://leotec.com/manuales/">Manuales y Guías</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-87066"><a href="https://sites.google.com/view/imagenes-leotec/inicio">Banco de imágenes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-87079"><a href="https://leotec.com/declaracion-de-conformidad/">Declaraciones de conformidad</a></li>
+</ul>
+</li>
+</ul>        </nav>
+        
+        </div>
+
+        
+    </div>
+
+    <!-- Site Search -->
+    <div class="off-canvas-wrapper">
+        <div class="site-search off-canvas position-top" id="offCanvasTop1" data-off-canvas>
+            <div class="row has-scrollbar">
+                <div class="site-search-close">
+                    <button class="close-button" aria-label="Close menu" type="button" data-close>
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <p class="search-text">
+                    What are you looking for?                </p>
+                <div  class="dgwt-wcas-search-wrapp dgwt-wcas-has-submit woocommerce dgwt-wcas-style-solaris js-dgwt-wcas-layout-classic dgwt-wcas-layout-classic js-dgwt-wcas-mobile-overlay-enabled">
+		<form class="dgwt-wcas-search-form" role="search" action="https://leotec.com/" method="get">
+		<div class="dgwt-wcas-sf-wrapp">
+						<label class="screen-reader-text"
+				for="dgwt-wcas-search-input-1">
+				Búsqueda de productos			</label>
+
+			<input
+				id="dgwt-wcas-search-input-1"
+				type="search"
+				class="dgwt-wcas-search-input"
+				name="s"
+				value=""
+				placeholder="Buscar producto"
+				autocomplete="off"
+							/>
+			<div class="dgwt-wcas-preloader"></div>
+
+			<div class="dgwt-wcas-voice-search"></div>
+
+							<button type="submit"
+						aria-label="Buscar"
+						class="dgwt-wcas-search-submit">				<svg
+					class="dgwt-wcas-ico-magnifier" xmlns="http://www.w3.org/2000/svg"
+					xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+					viewBox="0 0 51.539 51.361" xml:space="preserve">
+					<path 						d="M51.539,49.356L37.247,35.065c3.273-3.74,5.272-8.623,5.272-13.983c0-11.742-9.518-21.26-21.26-21.26 S0,9.339,0,21.082s9.518,21.26,21.26,21.26c5.361,0,10.244-1.999,13.983-5.272l14.292,14.292L51.539,49.356z M2.835,21.082 c0-10.176,8.249-18.425,18.425-18.425s18.425,8.249,18.425,18.425S31.436,39.507,21.26,39.507S2.835,31.258,2.835,21.082z"/>
+				</svg>
+				</button>
+			
+			<input type="hidden" name="post_type" value="product"/>
+			<input type="hidden" name="dgwt_wcas" value="1"/>
+
+			
+					</div>
+	</form>
+</div>
+            </div>
+        </div>
+    </div><!-- .site-search -->
+
+    
+
+<div class="js-off-canvas-overlay is-overlay-fixed"></div>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/shopkeeper/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="a2a_kit a2a_kit_size_30 a2a_floating_style a2a_vertical_style" data-a2a-scroll-show="100,100" style="right:0px;top:120px;background-color:transparent"><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fleotec.com%2Fwp-content%2Fuploads%2F2016%2F11%2Flogopcbox.png&amp;linkname=P%C3%A1gina%20no%20encontrada" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_bluesky" href="https://www.addtoany.com/add_to/bluesky?linkurl=https%3A%2F%2Fleotec.com%2Fwp-content%2Fuploads%2F2016%2F11%2Flogopcbox.png&amp;linkname=P%C3%A1gina%20no%20encontrada" title="Bluesky" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fleotec.com%2Fwp-content%2Fuploads%2F2016%2F11%2Flogopcbox.png&amp;linkname=P%C3%A1gina%20no%20encontrada" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_telegram" href="https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fleotec.com%2Fwp-content%2Fuploads%2F2016%2F11%2Flogopcbox.png&amp;linkname=P%C3%A1gina%20no%20encontrada" title="Telegram" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fleotec.com%2Fwp-content%2Fuploads%2F2016%2F11%2Flogopcbox.png&amp;linkname=P%C3%A1gina%20no%20encontrada" title="Copy Link" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_x" href="https://www.addtoany.com/add_to/x?linkurl=https%3A%2F%2Fleotec.com%2Fwp-content%2Fuploads%2F2016%2F11%2Flogopcbox.png&amp;linkname=P%C3%A1gina%20no%20encontrada" title="X" rel="nofollow noopener" target="_blank"></a></div><div id="glt-translate-trigger"><span class="translate">Idioma</span></div><div id="glt-toolbar"></div><div id="flags" style="display:none" class="size18"><ul id="sortable" class="ui-sortable"><li id="Basque"><a href="#" title="Basque" class="nturl notranslate eu flag Basque"></a></li><li id="Catalan"><a href="#" title="Catalan" class="nturl notranslate ca flag Catalan"></a></li><li id="English"><a href="#" title="English" class="nturl notranslate en flag English"></a></li><li id="Galician"><a href="#" title="Galician" class="nturl notranslate gl flag Galician"></a></li><li id="Portuguese"><a href="#" title="Portuguese" class="nturl notranslate pt flag Portuguese"></a></li><li id="Spanish"><a href="#" title="Spanish" class="nturl notranslate es flag Spanish"></a></li></ul></div><div id='glt-footer'><div id="google_language_translator" class="default-language-es"></div></div><script>function GoogleLanguageTranslatorInit() { new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages:'eu,ca,en,gl,pt,es', autoDisplay: false}, 'google_language_translator');}</script>	<script>
+		(function ($) {
+			if ($(window).width() > 767) {
+				$('.search-button').on('click', function () {
+					var $input = $('.site-search .dgwt-wcas-search-input');
+
+					if ($input.length) {
+						setTimeout(function () {
+							$input.trigger('focus');
+						}, 500);
+					}
+				});
+			} else {
+				$('.search-button').on('click', function () {
+					var $mobileHandler = $('.site-search .js-dgwt-wcas-enable-mobile-form');
+
+					if ($mobileHandler.length) {
+						$mobileHandler[0].click();
+
+						setTimeout(function () {
+							if ($('.site-search-close button').length) {
+								$('.site-search-close button').trigger('click');
+							}
+						}, 500);
+					}
+				});
+			}
+		})(jQuery);
+	</script>
+					<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+				<script type='text/javascript'>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<script type="text/template" id="tmpl-variation-template">
+	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
+	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
+	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
+</script>
+<script type="text/template" id="tmpl-unavailable-variation-template">
+	<p role="alert">Lo siento, este producto no está disponible. Por favor, elige otra combinación.</p>
+</script>
+<link rel='stylesheet' id='wc-blocks-style-css' href='https://leotec.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.4.3' type='text/css' media='all' />
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/embedpress/assets/js/gallery-justify.js?ver=1768229753" id="embedpress-gallery-justify-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/embedpress/assets/js/lazy-load.js?ver=1768229753" id="embedpress-lazy-load-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-translations">
+/* <![CDATA[ */
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-12-01 15:45:40+0000","generator":"GlotPress\/4.0.3","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"es"},"This contact form is placed in the wrong place.":["Este formulario de contacto est\u00e1 situado en el lugar incorrecto."],"Error:":["Error:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+//# sourceURL=contact-form-7-js-translations
+/* ]]> */
+</script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/leotec.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.4" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/google-language-translator/js/scripts.js?ver=6.0.20" id="scripts-js"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=GoogleLanguageTranslatorInit" id="scripts-google-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/themes/shopkeeper/js/vendor/imagesloaded.pkgd.min.js?ver=4.1.4" id="shopkeeper-global-imagesloaded-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/themes/shopkeeper/js/vendor/jquery.visible.js?ver=1.0.0" id="shopkeeper-global-jquery-visible-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/themes/shopkeeper/js/public/global-header.js?ver=8.0" id="shopkeeper-global-header-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/themes/shopkeeper/js/public/global-wp-blocks.js?ver=8.0" id="shopkeeper-global-wp-blocks-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/themes/shopkeeper/js/public/misc-product-card-animation.js?ver=8.0" id="shopkeeper-product-card-animation-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/themes/shopkeeper/js/public/misc-minicart.js?ver=8.0" id="shopkeeper-misc-minicart-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/dflip/assets/js/dflip.min.js?ver=2.4.13" id="dflip-script-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LfpciEkAAAAAAWySbM-m9tBi7eRg9yt_J-PvsWa&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6LfpciEkAAAAAAWySbM-m9tBi7eRg9yt_J-PvsWa",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.4" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" id="shopkeeper-scripts-js-extra">
+/* <![CDATA[ */
+var getbowtied_scripts_vars = {"ajax_load_more_locale":"Load More Items","ajax_loading_locale":"Loading","ajax_no_more_items_locale":"No more items available.","pagination_blog":"infinite_scroll","layout_blog":"layout-3","shop_pagination_type":"infinite_scroll","option_minicart":"2","option_minicart_open":"1","catalog_mode":"1","product_lightbox":"0","product_gallery_zoom":"1","mobile_product_columns":"2","sticky_header":"1","mobile_sticky_header":"1","back_to_top_button":"1","ajax_url":"/wp-admin/admin-ajax.php"};
+//# sourceURL=shopkeeper-scripts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/themes/shopkeeper/js/scripts.js?ver=8.0" id="shopkeeper-scripts-js"></script>
+<script type="text/javascript" id="eael-general-js-extra">
+/* <![CDATA[ */
+var localize = {"ajaxurl":"https://leotec.com/wp-admin/admin-ajax.php","nonce":"f1d3586f4c","i18n":{"added":"A\u00f1adido","compare":"Comparar","loading":"Cargando..."},"eael_translate_text":{"required_text":"es un campo obligatorio","invalid_text":"No v\u00e1lido","billing_text":"Facturaci\u00f3n","shipping_text":"Env\u00edo","fg_mfp_counter_text":"de"},"page_permalink":"","cart_redirectition":"no","cart_page_url":"https://leotec.com","el_breakpoints":{"mobile":{"label":"M\u00f3vil vertical","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"M\u00f3vil horizontal","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tableta horizontal","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Port\u00e1til","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"ParticleThemesData":{"default":"{\"particles\":{\"number\":{\"value\":160,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":true,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"repulse\"},\"onclick\":{\"enable\":true,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nasa":"{\"particles\":{\"number\":{\"value\":250,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":1,\"random\":true,\"anim\":{\"enable\":true,\"speed\":1,\"opacity_min\":0,\"sync\":false}},\"size\":{\"value\":3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":4,\"size_min\":0.3,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":1,\"direction\":\"none\",\"random\":true,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":600}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":250,\"size\":0,\"duration\":2,\"opacity\":0,\"speed\":3},\"repulse\":{\"distance\":400,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","bubble":"{\"particles\":{\"number\":{\"value\":15,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#1b1e34\"},\"shape\":{\"type\":\"polygon\",\"stroke\":{\"width\":0,\"color\":\"#000\"},\"polygon\":{\"nb_sides\":6},\"image\":{\"src\":\"img/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.3,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":50,\"random\":false,\"anim\":{\"enable\":true,\"speed\":10,\"size_min\":40,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":200,\"color\":\"#ffffff\",\"opacity\":1,\"width\":2},\"move\":{\"enable\":true,\"speed\":8,\"direction\":\"none\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":false,\"mode\":\"push\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","snow":"{\"particles\":{\"number\":{\"value\":450,\"density\":{\"enable\":true,\"value_area\":800}},\"color\":{\"value\":\"#fff\"},\"shape\":{\"type\":\"circle\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"img/github.svg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":5,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":500,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":2},\"move\":{\"enable\":true,\"speed\":6,\"direction\":\"bottom\",\"random\":false,\"straight\":false,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":true,\"mode\":\"bubble\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":400,\"line_linked\":{\"opacity\":0.5}},\"bubble\":{\"distance\":400,\"size\":4,\"duration\":0.3,\"opacity\":1,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}","nyan_cat":"{\"particles\":{\"number\":{\"value\":150,\"density\":{\"enable\":false,\"value_area\":800}},\"color\":{\"value\":\"#ffffff\"},\"shape\":{\"type\":\"star\",\"stroke\":{\"width\":0,\"color\":\"#000000\"},\"polygon\":{\"nb_sides\":5},\"image\":{\"src\":\"http://wiki.lexisnexis.com/academic/images/f/fb/Itunes_podcast_icon_300.jpg\",\"width\":100,\"height\":100}},\"opacity\":{\"value\":0.5,\"random\":false,\"anim\":{\"enable\":false,\"speed\":1,\"opacity_min\":0.1,\"sync\":false}},\"size\":{\"value\":4,\"random\":true,\"anim\":{\"enable\":false,\"speed\":40,\"size_min\":0.1,\"sync\":false}},\"line_linked\":{\"enable\":false,\"distance\":150,\"color\":\"#ffffff\",\"opacity\":0.4,\"width\":1},\"move\":{\"enable\":true,\"speed\":14,\"direction\":\"left\",\"random\":false,\"straight\":true,\"out_mode\":\"out\",\"bounce\":false,\"attract\":{\"enable\":false,\"rotateX\":600,\"rotateY\":1200}}},\"interactivity\":{\"detect_on\":\"canvas\",\"events\":{\"onhover\":{\"enable\":false,\"mode\":\"grab\"},\"onclick\":{\"enable\":true,\"mode\":\"repulse\"},\"resize\":true},\"modes\":{\"grab\":{\"distance\":200,\"line_linked\":{\"opacity\":1}},\"bubble\":{\"distance\":400,\"size\":40,\"duration\":2,\"opacity\":8,\"speed\":3},\"repulse\":{\"distance\":200,\"duration\":0.4},\"push\":{\"particles_nb\":4},\"remove\":{\"particles_nb\":2}}},\"retina_detect\":true}"},"eael_login_nonce":"eef1f4a3d6","eael_register_nonce":"0c162d42e1","eael_lostpassword_nonce":"0fdf9dd46a","eael_resetpassword_nonce":"42a94ca3fc"};
+//# sourceURL=eael-general-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.5.8" id="eael-general-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/wp-rocket/assets/js/heartbeat.js?ver=3.12.3.3" id="heartbeat-js"></script>
+<script type="text/javascript" id="jquery-dgwt-wcas-js-extra">
+/* <![CDATA[ */
+var dgwt_wcas = {"labels":{"product_plu":"Productos","vendor":"Vendedor","vendor_plu":"Vendedores","sku_label":"SKU:","sale_badge":"Oferta","vendor_sold_by":"Vendido por:","featured_badge":"Destacado","in":"en","read_more":"seguir leyendo","no_results":"\"No hay resultados\"","no_results_default":"No hay resultados","show_more":"Ver todos los productos","show_more_details":"Ver todos los productos","search_placeholder":"Buscar producto","submit":"","search_hist":"Tu historial de b\u00fasqueda","search_hist_clear":"Vaciar","mob_overlay_label":"Abrir b\u00fasqueda en superposici\u00f3n en m\u00f3viles","tax_product_cat_plu":"Categor\u00edas","tax_product_cat":"Categor\u00eda","tax_product_tag_plu":"Etiquetas","tax_product_tag":"Tag"},"ajax_search_endpoint":"/?wc-ajax=dgwt_wcas_ajax_search","ajax_details_endpoint":"/?wc-ajax=dgwt_wcas_result_details","ajax_prices_endpoint":"/?wc-ajax=dgwt_wcas_get_prices","action_search":"dgwt_wcas_ajax_search","action_result_details":"dgwt_wcas_result_details","action_get_prices":"dgwt_wcas_get_prices","min_chars":"6","width":"auto","show_details_panel":"","show_images":"1","show_price":"","show_desc":"","show_sale_badge":"","show_featured_badge":"","dynamic_prices":"","is_rtl":"","show_preloader":"","show_headings":"1","preloader_url":"","taxonomy_brands":"","img_url":"https://leotec.com/wp-content/plugins/ajax-search-for-woocommerce/assets/img/","is_premium":"","layout_breakpoint":"767","mobile_overlay_breakpoint":"767","mobile_overlay_wrapper":"body","mobile_overlay_delay":"0","debounce_wait_ms":"400","send_ga_events":"1","enable_ga_site_search_module":"","magnifier_icon":"\t\t\t\t\u003Csvg\n\t\t\t\t\tclass=\"\" xmlns=\"http://www.w3.org/2000/svg\"\n\t\t\t\t\txmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\"\n\t\t\t\t\tviewBox=\"0 0 51.539 51.361\" xml:space=\"preserve\"\u003E\n\t\t\t\t\t\u003Cpath \t\t\t\t\t\td=\"M51.539,49.356L37.247,35.065c3.273-3.74,5.272-8.623,5.272-13.983c0-11.742-9.518-21.26-21.26-21.26 S0,9.339,0,21.082s9.518,21.26,21.26,21.26c5.361,0,10.244-1.999,13.983-5.272l14.292,14.292L51.539,49.356z M2.835,21.082 c0-10.176,8.249-18.425,18.425-18.425s18.425,8.249,18.425,18.425S31.436,39.507,21.26,39.507S2.835,31.258,2.835,21.082z\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","magnifier_icon_pirx":"\t\t\t\t\u003Csvg\n\t\t\t\t\tclass=\"\" xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"18\" viewBox=\"0 0 18 18\"\u003E\n\t\t\t\t\t\u003Cpath  d=\" M 16.722523,17.901412 C 16.572585,17.825208 15.36088,16.670476 14.029846,15.33534 L 11.609782,12.907819 11.01926,13.29667 C 8.7613237,14.783493 5.6172703,14.768302 3.332423,13.259528 -0.07366363,11.010358 -1.0146502,6.5989684 1.1898146,3.2148776\n\t\t\t\t\t1.5505179,2.6611594 2.4056498,1.7447266 2.9644271,1.3130497 3.4423015,0.94387379 4.3921825,0.48568469 5.1732652,0.2475835 5.886299,0.03022609 6.1341883,0 7.2037391,0 8.2732897,0 8.521179,0.03022609 9.234213,0.2475835 c 0.781083,0.23810119 1.730962,0.69629029 2.208837,1.0654662\n\t\t\t\t\t0.532501,0.4113763 1.39922,1.3400096 1.760153,1.8858877 1.520655,2.2998531 1.599025,5.3023778 0.199549,7.6451086 -0.208076,0.348322 -0.393306,0.668209 -0.411622,0.710863 -0.01831,0.04265 1.065556,1.18264 2.408603,2.533307 1.343046,1.350666 2.486621,2.574792 2.541278,2.720279 0.282475,0.7519\n\t\t\t\t\t-0.503089,1.456506 -1.218488,1.092917 z M 8.4027892,12.475062 C 9.434946,12.25579 10.131043,11.855461 10.99416,10.984753 11.554519,10.419467 11.842507,10.042366 12.062078,9.5863882 12.794223,8.0659672 12.793657,6.2652398 12.060578,4.756293 11.680383,3.9737304 10.453587,2.7178427\n\t\t\t\t\t9.730569,2.3710306 8.6921295,1.8729196 8.3992147,1.807606 7.2037567,1.807606 6.0082984,1.807606 5.7153841,1.87292 4.6769446,2.3710306 3.9539263,2.7178427 2.7271301,3.9737304 2.3469352,4.756293 1.6138384,6.2652398 1.6132726,8.0659672 2.3454252,9.5863882 c 0.4167354,0.8654208 1.5978784,2.0575608\n\t\t\t\t\t2.4443766,2.4671358 1.0971012,0.530827 2.3890403,0.681561 3.6130134,0.421538 z\n\t\t\t\t\t\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","history_icon":"\t\t\t\t\u003Csvg class=\"\" xmlns=\"http://www.w3.org/2000/svg\" width=\"18\" height=\"16\"\u003E\n\t\t\t\t\t\u003Cg transform=\"translate(-17.498822,-36.972165)\"\u003E\n\t\t\t\t\t\t\u003Cpath \t\t\t\t\t\t\td=\"m 26.596964,52.884295 c -0.954693,-0.11124 -2.056421,-0.464654 -2.888623,-0.926617 -0.816472,-0.45323 -1.309173,-0.860824 -1.384955,-1.145723 -0.106631,-0.400877 0.05237,-0.801458 0.401139,-1.010595 0.167198,-0.10026 0.232609,-0.118358 0.427772,-0.118358 0.283376,0 0.386032,0.04186 0.756111,0.308336 1.435559,1.033665 3.156285,1.398904 4.891415,1.038245 2.120335,-0.440728 3.927688,-2.053646 4.610313,-4.114337 0.244166,-0.737081 0.291537,-1.051873 0.293192,-1.948355 0.0013,-0.695797 -0.0093,-0.85228 -0.0806,-1.189552 -0.401426,-1.899416 -1.657702,-3.528366 -3.392535,-4.398932 -2.139097,-1.073431 -4.69701,-0.79194 -6.613131,0.727757 -0.337839,0.267945 -0.920833,0.890857 -1.191956,1.27357 -0.66875,0.944 -1.120577,2.298213 -1.120577,3.35859 v 0.210358 h 0.850434 c 0.82511,0 0.854119,0.0025 0.974178,0.08313 0.163025,0.109516 0.246992,0.333888 0.182877,0.488676 -0.02455,0.05927 -0.62148,0.693577 -1.32651,1.40957 -1.365272,1.3865 -1.427414,1.436994 -1.679504,1.364696 -0.151455,-0.04344 -2.737016,-2.624291 -2.790043,-2.784964 -0.05425,-0.16438 0.02425,-0.373373 0.179483,-0.477834 0.120095,-0.08082 0.148717,-0.08327 0.970779,-0.08327 h 0.847035 l 0.02338,-0.355074 c 0.07924,-1.203664 0.325558,-2.153721 0.819083,-3.159247 1.083047,-2.206642 3.117598,-3.79655 5.501043,-4.298811 0.795412,-0.167616 1.880855,-0.211313 2.672211,-0.107576 3.334659,0.437136 6.147035,3.06081 6.811793,6.354741 0.601713,2.981541 -0.541694,6.025743 -2.967431,7.900475 -1.127277,0.871217 -2.441309,1.407501 -3.893104,1.588856 -0.447309,0.05588 -1.452718,0.06242 -1.883268,0.01225 z m 3.375015,-5.084703 c -0.08608,-0.03206 -2.882291,-1.690237 -3.007703,-1.783586 -0.06187,-0.04605 -0.160194,-0.169835 -0.218507,-0.275078 L 26.639746,45.549577 V 43.70452 41.859464 L 26.749,41.705307 c 0.138408,-0.195294 0.31306,-0.289155 0.538046,-0.289155 0.231638,0 0.438499,0.109551 0.563553,0.298452 l 0.10019,0.151342 0.01053,1.610898 0.01053,1.610898 0.262607,0.154478 c 1.579961,0.929408 2.399444,1.432947 2.462496,1.513106 0.253582,0.322376 0.140877,0.816382 -0.226867,0.994404 -0.148379,0.07183 -0.377546,0.09477 -0.498098,0.04986 z\"/\u003E\n\t\t\t\t\t\u003C/g\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","close_icon":"\t\t\t\t\u003Csvg class=\"\" xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\"\u003E\n\t\t\t\t\t\u003Cpath \t\t\t\t\t\td=\"M18.3 5.71c-.39-.39-1.02-.39-1.41 0L12 10.59 7.11 5.7c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41L10.59 12 5.7 16.89c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0L12 13.41l4.89 4.89c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L13.41 12l4.89-4.89c.38-.38.38-1.02 0-1.4z\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","back_icon":"\t\t\t\t\u003Csvg class=\"\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 16 16\"\u003E\n\t\t\t\t\t\u003Cpath \t\t\t\t\t\td=\"M14 6.125H3.351l4.891-4.891L7 0 0 7l7 7 1.234-1.234L3.35 7.875H14z\" fill-rule=\"evenodd\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","preloader_icon":"\t\t\t\t\u003Csvg class=\"dgwt-wcas-loader-circular \" viewBox=\"25 25 50 50\"\u003E\n\t\t\t\t\t\u003Ccircle class=\"dgwt-wcas-loader-circular-path\" cx=\"50\" cy=\"50\" r=\"20\" fill=\"none\"\n\t\t\t\t\t\t stroke-miterlimit=\"10\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","voice_search_inactive_icon":"\t\t\t\t\u003Csvg class=\"dgwt-wcas-voice-search-mic-inactive\" xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" width=\"24\"\u003E\n\t\t\t\t\t\u003Cpath \t\t\t\t\t\td=\"M12 13Q11.15 13 10.575 12.425Q10 11.85 10 11V5Q10 4.15 10.575 3.575Q11.15 3 12 3Q12.85 3 13.425 3.575Q14 4.15 14 5V11Q14 11.85 13.425 12.425Q12.85 13 12 13ZM12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8Q12 8 12 8ZM11.5 20.5V16.975Q9.15 16.775 7.575 15.062Q6 13.35 6 11H7Q7 13.075 8.463 14.537Q9.925 16 12 16Q14.075 16 15.538 14.537Q17 13.075 17 11H18Q18 13.35 16.425 15.062Q14.85 16.775 12.5 16.975V20.5ZM12 12Q12.425 12 12.713 11.712Q13 11.425 13 11V5Q13 4.575 12.713 4.287Q12.425 4 12 4Q11.575 4 11.288 4.287Q11 4.575 11 5V11Q11 11.425 11.288 11.712Q11.575 12 12 12Z\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","voice_search_active_icon":"\t\t\t\t\u003Csvg\n\t\t\t\t\tclass=\"dgwt-wcas-voice-search-mic-active\" xmlns=\"http://www.w3.org/2000/svg\" height=\"24\"\n\t\t\t\t\twidth=\"24\"\u003E\n\t\t\t\t\t\u003Cpath \t\t\t\t\t\td=\"M12 13Q11.15 13 10.575 12.425Q10 11.85 10 11V5Q10 4.15 10.575 3.575Q11.15 3 12 3Q12.85 3 13.425 3.575Q14 4.15 14 5V11Q14 11.85 13.425 12.425Q12.85 13 12 13ZM11.5 20.5V16.975Q9.15 16.775 7.575 15.062Q6 13.35 6 11H7Q7 13.075 8.463 14.537Q9.925 16 12 16Q14.075 16 15.538 14.537Q17 13.075 17 11H18Q18 13.35 16.425 15.062Q14.85 16.775 12.5 16.975V20.5Z\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","voice_search_disabled_icon":"\t\t\t\t\u003Csvg class=\"dgwt-wcas-voice-search-mic-disabled\" xmlns=\"http://www.w3.org/2000/svg\" height=\"24\" width=\"24\"\u003E\n\t\t\t\t\t\u003Cpath \t\t\t\t\t\td=\"M16.725 13.4 15.975 12.625Q16.1 12.325 16.2 11.9Q16.3 11.475 16.3 11H17.3Q17.3 11.75 17.138 12.337Q16.975 12.925 16.725 13.4ZM13.25 9.9 9.3 5.925V5Q9.3 4.15 9.875 3.575Q10.45 3 11.3 3Q12.125 3 12.713 3.575Q13.3 4.15 13.3 5V9.7Q13.3 9.75 13.275 9.8Q13.25 9.85 13.25 9.9ZM10.8 20.5V17.025Q8.45 16.775 6.875 15.062Q5.3 13.35 5.3 11H6.3Q6.3 13.075 7.763 14.537Q9.225 16 11.3 16Q12.375 16 13.312 15.575Q14.25 15.15 14.925 14.4L15.625 15.125Q14.9 15.9 13.913 16.4Q12.925 16.9 11.8 17.025V20.5ZM19.925 20.825 1.95 2.85 2.675 2.15 20.65 20.125Z\"/\u003E\n\t\t\t\t\u003C/svg\u003E\n\t\t\t\t","custom_params":{},"convert_html":"1","suggestions_wrapper":"body","show_product_vendor":"","disable_hits":"","disable_submit":"","fixer":{"broken_search_ui":true,"broken_search_ui_ajax":true,"broken_search_ui_hard":false,"broken_search_elementor_popups":true,"broken_search_jet_mobile_menu":true,"broken_search_browsers_back_arrow":true,"force_refresh_checkout":true},"voice_search_enabled":"","voice_search_lang":"es-ES","show_recently_searched_products":"","show_recently_searched_phrases":"","go_to_first_variation_on_submit":"","show_sku":"1"};
+//# sourceURL=jquery-dgwt-wcas-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/ajax-search-for-woocommerce/assets/js/search.min.js?ver=1.32.2" id="jquery-dgwt-wcas-js"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/woocommerce/assets/js/zoom/jquery.zoom.min.js?ver=1.7.21-wc.10.4.3" id="wc-zoom-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/woocommerce/assets/js/flexslider/jquery.flexslider.min.js?ver=2.7.2-wc.10.4.3" id="wc-flexslider-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"/wp-admin/admin-ajax.php"}};
+//# sourceURL=wp-util-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-includes/js/wp-util.min.js?ver=70f58af44719804059b29ff254502ca8" id="wp-util-js"></script>
+<script type="text/javascript" id="wc-add-to-cart-variation-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_variation_params = {"wc_ajax_url":"/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Lo siento, no hay productos que igualen tu selecci\u00f3n. Por favor, escoge una combinaci\u00f3n diferente.","i18n_make_a_selection_text":"Elige las opciones del producto antes de a\u00f1adir este producto a tu carrito.","i18n_unavailable_text":"Lo siento, este producto no est\u00e1 disponible. Por favor, elige otra combinaci\u00f3n.","i18n_reset_alert_text":"Se ha restablecido tu selecci\u00f3n. Por favor, elige alguna opci\u00f3n del producto antes de poder a\u00f1adir este producto a tu carrito."};
+//# sourceURL=wc-add-to-cart-variation-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=10.4.3" id="wc-add-to-cart-variation-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-single-product-js-extra">
+/* <![CDATA[ */
+var wc_single_product_params = {"i18n_required_rating_text":"Por favor elige una puntuaci\u00f3n","i18n_rating_options":["1 de 5 estrellas","2 de 5 estrellas","3 de 5 estrellas","4 de 5 estrellas","5 de 5 estrellas"],"i18n_product_gallery_trigger_text":"Ver galer\u00eda de im\u00e1genes a pantalla completa","review_rating_required":"yes","flexslider":{"rtl":false,"animation":"slide","smoothHeight":true,"directionNav":false,"controlNav":"thumbnails","slideshow":false,"animationSpeed":500,"animationLoop":false,"allowOneSlide":false},"zoom_enabled":"1","zoom_options":[],"photoswipe_enabled":"","photoswipe_options":{"shareEl":false,"closeOnScroll":false,"history":false,"hideAnimationDuration":0,"showAnimationDuration":0},"flexslider_enabled":"1"};
+//# sourceURL=wc-single-product-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://leotec.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=10.4.3" id="wc-single-product-js" defer="defer" data-wp-strategy="defer"></script>
+<script data-cfasync="false"> var dFlipLocation = "https://leotec.com/wp-content/plugins/dflip/assets/"; var dFlipWPGlobal = {"text":{"toggleSound":"Encender\/apagar sonidos ","toggleThumbnails":"Alternar miniaturas","thumbTitle":"Miniaturas","outlineTitle":"Tabla de contenido","searchTitle":"Buscar","searchPlaceHolder":"Buscar","toggleOutline":"Alternar esquematizaci\u00f3n\/marcador","previousPage":"P\u00e1gina anterior","nextPage":"P\u00e1gina siguiente","toggleFullscreen":"Alternar pantalla completa","zoomIn":"Hacer Zoom","zoomOut":"Quitar Zoom","toggleHelp":"Alternar ayuda","singlePageMode":"Modo p\u00e1gina \u00fanica","doublePageMode":"Modo p\u00e1gina doble","downloadPDFFile":"Descargar","gotoFirstPage":"Ir a la 1\u00aa p\u00e1gina","gotoLastPage":"Ir a la \u00faltima p\u00e1gina","share":"Compartir","search":"Buscar","print":"Imprimir","mailSubject":"Me gustar\u00eda compartir contigo este documento","mailBody":"Mira este sitio {{url}}","loading":"Cargando"},"viewerType":"flipbook","mobileViewerType":"slider","moreControls":"download,pageMode,startPage,endPage,sound","hideControls":"","leftControls":"outline,thumbnail","rightControls":"fullScreen,share,download,more","hideShareControls":"","scrollWheel":"false","backgroundColor":"transparent","backgroundImage":"","height":"auto","paddingTop":"0","paddingBottom":"0","paddingLeft":"0","paddingRight":"0","controlsPosition":"hide","controlsFloating":false,"direction":"1","duration":"800","soundEnable":"true","showDownloadControl":"true","showSearchControl":"false","showPrintControl":"true","enableAnalytics":"false","webgl":"true","hard":"none","autoEnableOutline":"false","autoEnableThumbnail":"false","pageScale":"auto","maxTextureSize":"1600","rangeChunkSize":"524288","disableRange":true,"zoomRatio":"1.5","fakeZoom":"1","flexibility":"1","pageMode":"0","singlePageMode":"0","pageSize":"0","autoPlay":"false","autoPlayDuration":"5000","autoPlayStart":"false","linkTarget":"2","sharePrefix":"Leotec-","pdfVersion":"default","thumbLayout":"book-title-hover","targetWindow":"_popup","buttonClass":"","hasSpiral":false,"calendarMode":false,"spiralColor":"#eee","cover3DType":"none","color3DCover":"#aaaaaa","color3DSheets":"#fff","flipbook3DTiltAngleUp":"0","flipbook3DTiltAngleLeft":"0","autoPDFLinktoViewer":false,"sideMenuOverlay":false,"displayLightboxPlayIcon":false,"popupBackGroundColor":"rgb(255,255,255)","shelfImage":"","enableAutoLinks":true};</script><style>.df-sheet .df-page:before { opacity: 0.5;}section.linkAnnotation a, a.linkAnnotation, .buttonWidgetAnnotation a, a.customLinkAnnotation, .customHtmlAnnotation, .customVideoAnnotation, a.df-autolink{background-color: #ff0; opacity: 0.2;}
+        section.linkAnnotation a:hover, a.linkAnnotation:hover, .buttonWidgetAnnotation a:hover, a.customLinkAnnotation:hover, .customHtmlAnnotation:hover, .customVideoAnnotation:hover, a.df-autolink:hover{background-color: #2196F3; opacity: 0.5;}.df-container.df-transparent.df-fullscreen{background-color: rgb(255,255,255);}  </style><script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://leotec.com/wp-includes/js/wp-emoji-release.min.js?ver=70f58af44719804059b29ff254502ca8"}}
+</script>
+<script type="module">
+/* <![CDATA[ */
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://leotec.com/wp-includes/js/wp-emoji-loader.min.js
+/* ]]> */
+</script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://leotec.com/wp-content/plugins/wp-rocket/assets/js/lazyload/17.5/lazyload.min.js"></script>
+</body>
+
+</html>
