@@ -270,7 +270,7 @@ ul {
     border-radius: 8px;
     background: #ffffff;
     object-fit: contain;
-    padding: 4px;
+    padding: 8px;
     flex-shrink: 0;
     border: 1px solid var(--line);
 }
