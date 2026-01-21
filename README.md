@@ -2,7 +2,7 @@
 
 > **🚧 ESTADO ACTUAL: EN DESARROLLO / IN DEVELOPMENT 🚧**
 
-Bienvenido al repositorio de mi portafolio personal (V4). Este proyecto es una exploración de diseño web interactivo, combinando una estructura limpia con estética **Brutalista** e inspirada en **MSCHF**.
+Bienvenido al repositorio de mi portafolio personal (V4). Este proyecto es una exploración de diseño web interactivo, combinando una estructura limpia (inspirada en **[mds.is](https://mds.is)**) con la estética **Brutalista** de **MSCHF**.
 
 ## 🚀 Tecnologías
 
