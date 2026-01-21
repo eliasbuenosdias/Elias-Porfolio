@@ -268,8 +268,9 @@ ul {
     width: 48px;
     height: 48px;
     border-radius: 8px;
-    background: #222;
-    object-fit: cover;
+    background: #ffffff;
+    object-fit: contain;
+    padding: 4px;
     flex-shrink: 0;
     border: 1px solid var(--line);
 }
