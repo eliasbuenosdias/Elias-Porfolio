@@ -320,6 +320,38 @@ ul {
     font-size: 0.9rem;
 }
 
+.edu-info {
+    display: flex;
+    gap: 1.5rem;
+    align-items: flex-start;
+}
+
+.edu-logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    background: #ffffff;
+    object-fit: contain;
+    padding: 6px;
+    flex-shrink: 0;
+    border: 1px solid var(--line);
+}
+
+/* Placeholder for missing logo to keep alignment */
+.edu-logo-placeholder {
+    width: 60px;
+    height: 60px;
+    border-radius: 8px;
+    background: var(--sidebar-bg);
+    /* Darker placeholder */
+    flex-shrink: 0;
+    border: 1px dashed var(--line);
+}
+
+.edu-text {
+    flex: 1;
+}
+
 .edu-info h3 {
     font-size: 1.2rem;
     margin-bottom: 0.2rem;
