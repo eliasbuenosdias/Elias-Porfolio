@@ -327,20 +327,20 @@ ul {
 }
 
 .edu-logo {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     border-radius: 8px;
     background: #ffffff;
     object-fit: contain;
-    padding: 6px;
+    padding: 12px;
     flex-shrink: 0;
     border: 1px solid var(--line);
 }
 
 /* Placeholder for missing logo to keep alignment */
 .edu-logo-placeholder {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     border-radius: 8px;
     background: var(--sidebar-bg);
     /* Darker placeholder */
