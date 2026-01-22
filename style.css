@@ -62,7 +62,7 @@ ul {
 
 .sidebar-header {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-end;
     align-items: center;
 }
 
@@ -542,7 +542,6 @@ ul {
     }
 }
 
-/* Contact */
 .contact-box {
     padding: 4rem 0;
 }
@@ -550,18 +549,35 @@ ul {
 .contact-box p {
     font-size: 1.2rem;
     color: var(--text-secondary);
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
-.big-email {
-    font-size: 4rem;
+.contact-btn {
+    font-size: 2rem;
     font-weight: 700;
-    border-bottom: 2px solid var(--line);
-    transition: border-color 0.3s;
+    font-family: var(--font-heading);
+    color: var(--text-primary);
+    border: 1px solid var(--line);
+    padding: 1.5rem 3rem;
+    display: inline-block;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 2px;
 }
 
-.big-email:hover {
-    border-color: #fff;
+.contact-btn:hover {
+    background: var(--text-primary);
+    color: var(--bg-color);
+    transform: translateY(-5px);
+}
+
+.contact-email-sub {
+    display: block;
+    margin-top: 1.5rem;
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    font-family: monospace;
+    opacity: 0.6;
 }
 
 /* Responsive */
