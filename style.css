@@ -148,9 +148,14 @@ ul {
 }
 
 .social-mini a {
-    margin-right: 1rem;
+    margin-right: 1.5rem;
     color: var(--text-secondary);
-    font-size: 0.8rem;
+    font-size: 1.4rem;
+    transition: color 0.3s ease;
+}
+
+.social-mini a:hover {
+    color: var(--text-primary);
 }
 
 /* Main Content */
