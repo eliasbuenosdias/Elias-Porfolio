@@ -299,52 +299,105 @@ ul {
 /* Projects Gallery */
 .projects-gallery {
     display: grid;
-    /* Use auto-fit to allow more columns on wider screens, or strict max-width */
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     gap: 4rem;
     width: 100%;
 }
 
 .gallery-item {
-    cursor: pointer;
-    /* group: 'hover'; removed invalid property */
     display: flex;
     flex-direction: column;
 }
 
-.gallery-img {
-    height: 350px;
+.project-img-wrapper {
     width: 100%;
-    background: #222;
-    margin-bottom: 1.5rem;
-    transition: filter 0.3s, transform 0.3s;
-    object-fit: cover;
+    height: 350px;
+    background: var(--sidebar-bg);
+    /* Use sidebar background to fill the box */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.gallery-img {
+    max-width: 85%;
+    max-height: 85%;
+    object-fit: contain;
+    transition: transform 0.3s ease;
 }
 
 .gallery-item:hover .gallery-img {
-    filter: brightness(1.2);
-    transform: scale(1.02);
+    transform: scale(1.05);
 }
 
 .gallery-info h3 {
     font-size: 1.8rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.8rem;
     font-family: var(--font-heading);
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.dev-badge {
+    color: #4ADE80;
+    font-size: 0.8rem;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    text-transform: none;
+}
+
+.dev-badge::before {
+    content: '';
+    width: 6px;
+    height: 6px;
+    background: #4ADE80;
+    border-radius: 50%;
+    display: inline-block;
+    box-shadow: 0 0 8px #4ADE80;
 }
 
 .gallery-info .tags {
-    font-family: monospace;
+    font-family: var(--font-body);
     color: var(--accent);
     font-size: 0.9rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 1.2rem;
     text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .gallery-info .project-desc {
     color: var(--text-secondary);
-    font-size: 1rem;
-    line-height: 1.5;
-    max-width: 90%;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.project-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    color: var(--text-primary);
+    border-bottom: 1px solid var(--accent);
+    padding-bottom: 2px;
+    transition: all 0.3s ease;
+    width: fit-content;
+}
+
+.project-link:hover {
+    color: var(--accent);
+    border-bottom-color: var(--text-primary);
+    transform: translateX(5px);
 }
 
 /* Skills Marquee (MSCHF Style) */
