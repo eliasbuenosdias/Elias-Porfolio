@@ -296,6 +296,42 @@ ul {
     max-width: 500px;
 }
 
+/* Education List */
+.education-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.edu-row {
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    padding: 1.5rem 0;
+    border-bottom: 1px solid var(--line);
+}
+
+.edu-row:last-child {
+    border-bottom: none;
+}
+
+.edu-year {
+    color: var(--text-secondary);
+    font-family: monospace;
+    font-size: 0.9rem;
+}
+
+.edu-info h3 {
+    font-size: 1.2rem;
+    margin-bottom: 0.2rem;
+    line-height: 1.3;
+    font-family: var(--font-heading);
+}
+
+.edu-info .institution {
+    color: var(--accent);
+    font-size: 0.9rem;
+}
+
 /* Projects Gallery */
 .projects-gallery {
     display: grid;
@@ -551,6 +587,11 @@ ul {
     .exp-row {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+
+    .edu-row {
+        grid-template-columns: 1fr;
+        gap: 0.5rem;
     }
 
     .big-email {
