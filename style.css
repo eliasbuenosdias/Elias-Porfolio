@@ -299,8 +299,8 @@ ul {
 /* Projects Gallery */
 .projects-gallery {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    gap: 4rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3rem;
     width: 100%;
 }
 
@@ -311,72 +311,76 @@ ul {
 
 .project-img-wrapper {
     width: 100%;
-    height: 350px;
-    background: var(--sidebar-bg);
-    /* Use sidebar background to fill the box */
+    height: 280px;
+    background: var(--bg-color);
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     border: 1px solid var(--line);
-    border-radius: 4px;
     overflow: hidden;
 }
 
 .gallery-img {
-    max-width: 85%;
-    max-height: 85%;
+    max-width: 80%;
+    max-height: 80%;
     object-fit: contain;
     transition: transform 0.3s ease;
+    border-radius: 50%;
+    mix-blend-mode: lighten;
 }
 
 .gallery-item:hover .gallery-img {
     transform: scale(1.05);
 }
 
+.gallery-info {
+    display: flex;
+    flex-direction: column;
+}
+
 .gallery-info h3 {
-    font-size: 1.8rem;
-    margin-bottom: 0.8rem;
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
     font-family: var(--font-heading);
     display: flex;
     align-items: center;
-    gap: 15px;
+    flex-wrap: wrap;
+    gap: 12px;
 }
 
+/* Badge: mds.is + MSCHF Brutalist Style */
 .dev-badge {
-    color: #4ADE80;
-    font-size: 0.8rem;
-    font-weight: 500;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    text-transform: none;
+    background: var(--text-primary);
+    color: var(--bg-color);
+    font-size: 0.65rem;
+    font-weight: 700;
+    font-family: var(--font-heading);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 4px 8px;
+    border: 1px solid var(--text-primary);
+    display: inline-block;
 }
 
 .dev-badge::before {
-    content: '';
-    width: 6px;
-    height: 6px;
-    background: #4ADE80;
-    border-radius: 50%;
-    display: inline-block;
-    box-shadow: 0 0 8px #4ADE80;
+    display: none;
 }
 
 .gallery-info .tags {
-    font-family: var(--font-body);
+    font-family: monospace;
     color: var(--accent);
-    font-size: 0.9rem;
-    margin-bottom: 1.2rem;
+    font-size: 0.85rem;
+    margin-bottom: 0.8rem;
     text-transform: uppercase;
     letter-spacing: 1px;
 }
 
 .gallery-info .project-desc {
     color: var(--text-secondary);
-    font-size: 1.05rem;
+    font-size: 1rem;
     line-height: 1.6;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .project-link {
@@ -533,6 +537,15 @@ ul {
 
     .projects-gallery {
         grid-template-columns: 1fr;
+        gap: 2.5rem;
+    }
+
+    .project-img-wrapper {
+        height: 220px;
+    }
+
+    .gallery-info h3 {
+        font-size: 1.4rem;
     }
 
     .exp-row {
