@@ -126,14 +126,31 @@ ul {
 .sidebar-nav a {
     color: var(--text-secondary);
     font-size: 0.95rem;
-    transition: color 0.3s, transform 0.3s;
+    transition: color 0.3s;
     display: inline-block;
+    position: relative;
+    text-decoration: none;
+}
+
+.sidebar-nav a::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 1px;
+    bottom: -2px;
+    left: 0;
+    background-color: var(--text-primary);
+    transition: width 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
 
 .sidebar-nav a:hover,
 .sidebar-nav a.active {
     color: var(--text-primary);
-    transform: translateX(5px);
+}
+
+.sidebar-nav a:hover::after,
+.sidebar-nav a.active::after {
+    width: 100%;
 }
 
 .sidebar-footer {
